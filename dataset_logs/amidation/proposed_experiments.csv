@@ -1,0 +1,6 @@
+,activator_name,base_name,nucleophile_id,solvent_name,yield,prediction
+640,TFFH,"2,6-Lutidine",n4,MeCN,,0.5875
+727,DPPCl,1-Methylimidazole,n3,MeCN,,0.2525
+915,HOTU,N-methylmorpholine,n6,THF,,0.57
+542,BOP-Cl,N-methylmorpholine,n1,DMF,,0.55
+397,PyBOP,"2,6-Lutidine",n3,MeCN,,0.24

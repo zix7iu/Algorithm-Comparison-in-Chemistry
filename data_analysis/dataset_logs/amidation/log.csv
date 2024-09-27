@@ -1,0 +1,6 @@
+round,experiment,horizon,chosen_arm,reward,cumulative_reward
+0,0,0,0,0.0,0.0
+0,1,1,1,0.25,0.25
+0,2,2,2,0.5,0.75
+0,3,3,3,0.75,1.5
+0,4,4,4,1.0,2.5

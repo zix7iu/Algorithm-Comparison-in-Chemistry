@@ -1,0 +1,6 @@
+,horizon,activator_name,base_name,nucleophile_id,solvent_name,yield,prediction
+36,0,PFTU,"2,6-Lutidine",n3,THF,0.0,1.0
+187,1,TCFH,N-methylmorpholine,n3,MeCN,0.25,1.0
+323,2,HATU,N-methylmorpholine,n8,DMF,0.5,1.0
+388,3,PyBOP,1-Methylimidazole,n10,MeCN,0.75,1.0
+574,4,BOP-Cl,Diisopropylethylamine,n2,MeCN,1.0,1.0
