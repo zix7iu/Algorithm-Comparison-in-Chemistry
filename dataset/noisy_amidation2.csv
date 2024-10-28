@@ -1,0 +1,961 @@
+Unnamed: 0,base_name,solvent_name,activator_name,nucleophile_name,base_smiles,solvent_smiles,activator_smiles,nucleophile_smiles,yield,nucleophile_id
+0,1-Methylimidazole,THF,PFTU,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,-6.562394475125214,n1
+1,"2,6-Lutidine",THF,PFTU,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,-10.588689980472182,n1
+2,N-methylmorpholine,THF,PFTU,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,4.220093898319513,n1
+3,Diisopropylethylamine,THF,PFTU,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,-0.6402327133151404,n1
+4,1-Methylimidazole,MeCN,PFTU,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,1.4901404347425353,n1
+5,"2,6-Lutidine",MeCN,PFTU,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,-8.967164361640899,n1
+6,N-methylmorpholine,MeCN,PFTU,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,4.836594814127285,n1
+7,Diisopropylethylamine,MeCN,PFTU,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,-19.434910057980726,n1
+8,1-Methylimidazole,DMF,PFTU,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,5.684979826683998,n1
+9,"2,6-Lutidine",DMF,PFTU,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,-1.5746807656053434,n1
+10,N-methylmorpholine,DMF,PFTU,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,6.806513547863605,n1
+11,Diisopropylethylamine,DMF,PFTU,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,-8.342190895634127,n1
+12,1-Methylimidazole,THF,TCFH,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,23.6338495393307,n1
+13,"2,6-Lutidine",THF,TCFH,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,40.11415682680747,n1
+14,N-methylmorpholine,THF,TCFH,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,44.92248855447941,n1
+15,Diisopropylethylamine,THF,TCFH,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,14.69045621897868,n1
+16,1-Methylimidazole,MeCN,TCFH,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,2.8670031367413644,n1
+17,"2,6-Lutidine",MeCN,TCFH,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,2.3156626925220767,n1
+18,N-methylmorpholine,MeCN,TCFH,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,49.78298030149915,n1
+19,Diisopropylethylamine,MeCN,TCFH,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,5.5820590489851885,n1
+20,1-Methylimidazole,DMF,TCFH,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,42.08360768007997,n1
+21,"2,6-Lutidine",DMF,TCFH,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,17.51576682404145,n1
+22,N-methylmorpholine,DMF,TCFH,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,7.72841125499467,n1
+23,Diisopropylethylamine,DMF,TCFH,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,14.763267170963074,n1
+24,1-Methylimidazole,THF,HATU,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,11.13616455486472,n1
+25,"2,6-Lutidine",THF,HATU,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,-4.29011178002758,n1
+26,N-methylmorpholine,THF,HATU,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,3.427022523850223,n1
+27,Diisopropylethylamine,THF,HATU,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,-2.2932209701310224,n1
+28,1-Methylimidazole,MeCN,HATU,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,3.2480183465739687,n1
+29,"2,6-Lutidine",MeCN,HATU,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,-2.694991489165109,n1
+30,N-methylmorpholine,MeCN,HATU,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,-7.339392549319653,n1
+31,Diisopropylethylamine,MeCN,HATU,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,40.36400569988648,n1
+32,1-Methylimidazole,DMF,HATU,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,-4.262898057082905,n1
+33,"2,6-Lutidine",DMF,HATU,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,4.3892043518105,n1
+34,N-methylmorpholine,DMF,HATU,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,-1.1578846697532568,n1
+35,Diisopropylethylamine,DMF,HATU,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,16.56307552320488,n1
+36,1-Methylimidazole,THF,PyBOP,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(N)cc1C(F)(F)F,-8.110721554381488,n1
+37,"2,6-Lutidine",THF,PyBOP,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(N)cc1C(F)(F)F,5.696293260850334,n1
+38,N-methylmorpholine,THF,PyBOP,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(N)cc1C(F)(F)F,12.697042011696535,n1
+39,Diisopropylethylamine,THF,PyBOP,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(N)cc1C(F)(F)F,2.0094125614477916,n1
+40,1-Methylimidazole,MeCN,PyBOP,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(N)cc1C(F)(F)F,1.1662364837897465,n1
+41,"2,6-Lutidine",MeCN,PyBOP,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(N)cc1C(F)(F)F,18.053033147432693,n1
+42,N-methylmorpholine,MeCN,PyBOP,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(N)cc1C(F)(F)F,-5.874424652139402,n1
+43,Diisopropylethylamine,MeCN,PyBOP,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(N)cc1C(F)(F)F,20.758298031156905,n1
+44,1-Methylimidazole,DMF,PyBOP,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(N)cc1C(F)(F)F,-2.8442396532617744,n1
+45,"2,6-Lutidine",DMF,PyBOP,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(N)cc1C(F)(F)F,7.352085026470992,n1
+46,N-methylmorpholine,DMF,PyBOP,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(N)cc1C(F)(F)F,-0.8470871623062937,n1
+47,Diisopropylethylamine,DMF,PyBOP,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(N)cc1C(F)(F)F,-0.06530006773716401,n1
+48,1-Methylimidazole,THF,BOP-Cl,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(N)cc1C(F)(F)F,45.96911807447999,n1
+49,"2,6-Lutidine",THF,BOP-Cl,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(N)cc1C(F)(F)F,11.041446593207716,n1
+50,N-methylmorpholine,THF,BOP-Cl,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(N)cc1C(F)(F)F,35.055636682125254,n1
+51,Diisopropylethylamine,THF,BOP-Cl,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(N)cc1C(F)(F)F,36.89964242094286,n1
+52,1-Methylimidazole,MeCN,BOP-Cl,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(N)cc1C(F)(F)F,38.45164824990986,n1
+53,"2,6-Lutidine",MeCN,BOP-Cl,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(N)cc1C(F)(F)F,-2.995761373364571,n1
+54,N-methylmorpholine,MeCN,BOP-Cl,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(N)cc1C(F)(F)F,42.69573308108327,n1
+55,Diisopropylethylamine,MeCN,BOP-Cl,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(N)cc1C(F)(F)F,42.565478925164,n1
+56,1-Methylimidazole,DMF,BOP-Cl,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(N)cc1C(F)(F)F,29.965634577184485,n1
+57,"2,6-Lutidine",DMF,BOP-Cl,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(N)cc1C(F)(F)F,53.70312334100855,n1
+58,N-methylmorpholine,DMF,BOP-Cl,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(N)cc1C(F)(F)F,36.28567677526115,n1
+59,Diisopropylethylamine,DMF,BOP-Cl,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(N)cc1C(F)(F)F,-6.255301570067527,n1
+60,1-Methylimidazole,THF,TFFH,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,19.91478952458687,n1
+61,"2,6-Lutidine",THF,TFFH,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,5.296194787752387,n1
+62,N-methylmorpholine,THF,TFFH,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,-12.435119290139172,n1
+63,Diisopropylethylamine,THF,TFFH,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,23.571743285633687,n1
+64,1-Methylimidazole,MeCN,TFFH,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,40.34908793754677,n1
+65,"2,6-Lutidine",MeCN,TFFH,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,-11.146527288753703,n1
+66,N-methylmorpholine,MeCN,TFFH,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,6.165510382777441,n1
+67,Diisopropylethylamine,MeCN,TFFH,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,15.103814772861572,n1
+68,1-Methylimidazole,DMF,TFFH,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,12.956159087489711,n1
+69,"2,6-Lutidine",DMF,TFFH,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,9.08247463196243,n1
+70,N-methylmorpholine,DMF,TFFH,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,3.503381451770802,n1
+71,Diisopropylethylamine,DMF,TFFH,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,21.528111200447785,n1
+72,1-Methylimidazole,THF,DPPCl,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(N)cc1C(F)(F)F,20.751175649518032,n1
+73,"2,6-Lutidine",THF,DPPCl,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(N)cc1C(F)(F)F,-10.283636100505475,n1
+74,N-methylmorpholine,THF,DPPCl,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(N)cc1C(F)(F)F,39.899739331314656,n1
+75,Diisopropylethylamine,THF,DPPCl,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(N)cc1C(F)(F)F,43.814959519287754,n1
+76,1-Methylimidazole,MeCN,DPPCl,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(N)cc1C(F)(F)F,51.999516644236756,n1
+77,"2,6-Lutidine",MeCN,DPPCl,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(N)cc1C(F)(F)F,23.042860433100323,n1
+78,N-methylmorpholine,MeCN,DPPCl,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(N)cc1C(F)(F)F,46.65597352390821,n1
+79,Diisopropylethylamine,MeCN,DPPCl,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(N)cc1C(F)(F)F,29.928972735028065,n1
+80,1-Methylimidazole,DMF,DPPCl,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(N)cc1C(F)(F)F,18.788376889070374,n1
+81,"2,6-Lutidine",DMF,DPPCl,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(N)cc1C(F)(F)F,31.520141170711007,n1
+82,N-methylmorpholine,DMF,DPPCl,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(N)cc1C(F)(F)F,40.253126604741915,n1
+83,Diisopropylethylamine,DMF,DPPCl,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(N)cc1C(F)(F)F,48.32391209848758,n1
+84,1-Methylimidazole,THF,HOTU,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,2.9232001322727856,n1
+85,"2,6-Lutidine",THF,HOTU,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,-14.560918385378585,n1
+86,N-methylmorpholine,THF,HOTU,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,-3.3193938127080633,n1
+87,Diisopropylethylamine,THF,HOTU,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,4.239551508702711,n1
+88,1-Methylimidazole,MeCN,HOTU,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,11.139279735658205,n1
+89,"2,6-Lutidine",MeCN,HOTU,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,3.72746347292418,n1
+90,N-methylmorpholine,MeCN,HOTU,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,11.500588206885453,n1
+91,Diisopropylethylamine,MeCN,HOTU,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,-2.3861360755367578,n1
+92,1-Methylimidazole,DMF,HOTU,4-amino-2-(trifluoromethyl)benzonitrile,Cn1ccnc1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,21.001575520798305,n1
+93,"2,6-Lutidine",DMF,HOTU,4-amino-2-(trifluoromethyl)benzonitrile,Cc1cccc(C)n1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,-9.7844501685374,n1
+94,N-methylmorpholine,DMF,HOTU,4-amino-2-(trifluoromethyl)benzonitrile,CN1CCOCC1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,8.845181773763567,n1
+95,Diisopropylethylamine,DMF,HOTU,4-amino-2-(trifluoromethyl)benzonitrile,CCN(C(C)C)C(C)C,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(N)cc1C(F)(F)F,7.397141210238389,n1
+96,1-Methylimidazole,THF,PFTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,43.67721168526441,n2
+97,"2,6-Lutidine",THF,PFTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,27.268806162729476,n2
+98,N-methylmorpholine,THF,PFTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,33.00306452052026,n2
+99,Diisopropylethylamine,THF,PFTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,29.47614129510977,n2
+100,1-Methylimidazole,MeCN,PFTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,46.80805035123675,n2
+101,"2,6-Lutidine",MeCN,PFTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,30.193260026714135,n2
+102,N-methylmorpholine,MeCN,PFTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,48.448669996828365,n2
+103,Diisopropylethylamine,MeCN,PFTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,53.441713981906766,n2
+104,1-Methylimidazole,DMF,PFTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,54.85808382521186,n2
+105,"2,6-Lutidine",DMF,PFTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,47.81593157868985,n2
+106,N-methylmorpholine,DMF,PFTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,21.715257588084835,n2
+107,Diisopropylethylamine,DMF,PFTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,54.912632481125215,n2
+108,1-Methylimidazole,THF,TCFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,73.43824664965895,n2
+109,"2,6-Lutidine",THF,TCFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,43.077514535649875,n2
+110,N-methylmorpholine,THF,TCFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,31.376821855801424,n2
+111,Diisopropylethylamine,THF,TCFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,21.774518083343143,n2
+112,1-Methylimidazole,MeCN,TCFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,72.07407501430242,n2
+113,"2,6-Lutidine",MeCN,TCFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,29.751716565257922,n2
+114,N-methylmorpholine,MeCN,TCFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,39.919928454817295,n2
+115,Diisopropylethylamine,MeCN,TCFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,19.166078110951457,n2
+116,1-Methylimidazole,DMF,TCFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,54.598562310586686,n2
+117,"2,6-Lutidine",DMF,TCFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,29.47114243032484,n2
+118,N-methylmorpholine,DMF,TCFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,11.782595920963479,n2
+119,Diisopropylethylamine,DMF,TCFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,21.643836357841792,n2
+120,1-Methylimidazole,THF,HATU,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,59.27850394971269,n2
+121,"2,6-Lutidine",THF,HATU,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,41.20778195142538,n2
+122,N-methylmorpholine,THF,HATU,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,62.139720067764735,n2
+123,Diisopropylethylamine,THF,HATU,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,44.97662542890036,n2
+124,1-Methylimidazole,MeCN,HATU,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,58.76877886729031,n2
+125,"2,6-Lutidine",MeCN,HATU,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,72.36703978770197,n2
+126,N-methylmorpholine,MeCN,HATU,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,52.01526156790976,n2
+127,Diisopropylethylamine,MeCN,HATU,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,44.72118799386729,n2
+128,1-Methylimidazole,DMF,HATU,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,60.27562012237242,n2
+129,"2,6-Lutidine",DMF,HATU,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,53.714876247435804,n2
+130,N-methylmorpholine,DMF,HATU,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,52.59817321483307,n2
+131,Diisopropylethylamine,DMF,HATU,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,42.59193810206279,n2
+132,1-Methylimidazole,THF,PyBOP,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CNS(=O)(=O)Cc1ccc(N)cc1,59.30123040989156,n2
+133,"2,6-Lutidine",THF,PyBOP,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CNS(=O)(=O)Cc1ccc(N)cc1,48.31261621728377,n2
+134,N-methylmorpholine,THF,PyBOP,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CNS(=O)(=O)Cc1ccc(N)cc1,80.79320082078706,n2
+135,Diisopropylethylamine,THF,PyBOP,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CNS(=O)(=O)Cc1ccc(N)cc1,52.54767966993704,n2
+136,1-Methylimidazole,MeCN,PyBOP,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CNS(=O)(=O)Cc1ccc(N)cc1,69.16736699244181,n2
+137,"2,6-Lutidine",MeCN,PyBOP,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CNS(=O)(=O)Cc1ccc(N)cc1,70.77056663835212,n2
+138,N-methylmorpholine,MeCN,PyBOP,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CNS(=O)(=O)Cc1ccc(N)cc1,60.12094297445113,n2
+139,Diisopropylethylamine,MeCN,PyBOP,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CNS(=O)(=O)Cc1ccc(N)cc1,47.25425167346749,n2
+140,1-Methylimidazole,DMF,PyBOP,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CNS(=O)(=O)Cc1ccc(N)cc1,55.66120011411148,n2
+141,"2,6-Lutidine",DMF,PyBOP,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CNS(=O)(=O)Cc1ccc(N)cc1,31.311875945201074,n2
+142,N-methylmorpholine,DMF,PyBOP,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CNS(=O)(=O)Cc1ccc(N)cc1,45.25005260295539,n2
+143,Diisopropylethylamine,DMF,PyBOP,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CNS(=O)(=O)Cc1ccc(N)cc1,67.74497976451885,n2
+144,1-Methylimidazole,THF,BOP-Cl,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CNS(=O)(=O)Cc1ccc(N)cc1,28.973804014574704,n2
+145,"2,6-Lutidine",THF,BOP-Cl,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CNS(=O)(=O)Cc1ccc(N)cc1,10.013514850155053,n2
+146,N-methylmorpholine,THF,BOP-Cl,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CNS(=O)(=O)Cc1ccc(N)cc1,42.62384419390214,n2
+147,Diisopropylethylamine,THF,BOP-Cl,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CNS(=O)(=O)Cc1ccc(N)cc1,69.28212275644871,n2
+148,1-Methylimidazole,MeCN,BOP-Cl,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CNS(=O)(=O)Cc1ccc(N)cc1,62.96318563139506,n2
+149,"2,6-Lutidine",MeCN,BOP-Cl,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CNS(=O)(=O)Cc1ccc(N)cc1,61.66947510523849,n2
+150,N-methylmorpholine,MeCN,BOP-Cl,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CNS(=O)(=O)Cc1ccc(N)cc1,45.15969808801306,n2
+151,Diisopropylethylamine,MeCN,BOP-Cl,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CNS(=O)(=O)Cc1ccc(N)cc1,52.432304542128044,n2
+152,1-Methylimidazole,DMF,BOP-Cl,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CNS(=O)(=O)Cc1ccc(N)cc1,53.18065204421886,n2
+153,"2,6-Lutidine",DMF,BOP-Cl,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CNS(=O)(=O)Cc1ccc(N)cc1,21.61757062001944,n2
+154,N-methylmorpholine,DMF,BOP-Cl,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CNS(=O)(=O)Cc1ccc(N)cc1,7.128856318987772,n2
+155,Diisopropylethylamine,DMF,BOP-Cl,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CNS(=O)(=O)Cc1ccc(N)cc1,-5.269065975614296,n2
+156,1-Methylimidazole,THF,TFFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,55.04746613797407,n2
+157,"2,6-Lutidine",THF,TFFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,30.392316200924007,n2
+158,N-methylmorpholine,THF,TFFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,55.6448204261036,n2
+159,Diisopropylethylamine,THF,TFFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,59.43235436047834,n2
+160,1-Methylimidazole,MeCN,TFFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,60.74606983847354,n2
+161,"2,6-Lutidine",MeCN,TFFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,71.59429210092614,n2
+162,N-methylmorpholine,MeCN,TFFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,40.83245810104282,n2
+163,Diisopropylethylamine,MeCN,TFFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,19.0094615722883,n2
+164,1-Methylimidazole,DMF,TFFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,56.2081128391816,n2
+165,"2,6-Lutidine",DMF,TFFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,64.30608029323872,n2
+166,N-methylmorpholine,DMF,TFFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,49.0234345716472,n2
+167,Diisopropylethylamine,DMF,TFFH,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,32.13104541310374,n2
+168,1-Methylimidazole,THF,DPPCl,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,CNS(=O)(=O)Cc1ccc(N)cc1,52.11461016164569,n2
+169,"2,6-Lutidine",THF,DPPCl,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,CNS(=O)(=O)Cc1ccc(N)cc1,50.64850022994653,n2
+170,N-methylmorpholine,THF,DPPCl,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,CNS(=O)(=O)Cc1ccc(N)cc1,73.77651793174988,n2
+171,Diisopropylethylamine,THF,DPPCl,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,CNS(=O)(=O)Cc1ccc(N)cc1,66.81191236917255,n2
+172,1-Methylimidazole,MeCN,DPPCl,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,CNS(=O)(=O)Cc1ccc(N)cc1,45.863258329410066,n2
+173,"2,6-Lutidine",MeCN,DPPCl,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,CNS(=O)(=O)Cc1ccc(N)cc1,54.15728013366148,n2
+174,N-methylmorpholine,MeCN,DPPCl,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,CNS(=O)(=O)Cc1ccc(N)cc1,76.15432087357681,n2
+175,Diisopropylethylamine,MeCN,DPPCl,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,CNS(=O)(=O)Cc1ccc(N)cc1,45.154853925075486,n2
+176,1-Methylimidazole,DMF,DPPCl,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,CNS(=O)(=O)Cc1ccc(N)cc1,38.423498309596006,n2
+177,"2,6-Lutidine",DMF,DPPCl,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,CNS(=O)(=O)Cc1ccc(N)cc1,31.165987596866866,n2
+178,N-methylmorpholine,DMF,DPPCl,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,CNS(=O)(=O)Cc1ccc(N)cc1,53.98005436791784,n2
+179,Diisopropylethylamine,DMF,DPPCl,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,CNS(=O)(=O)Cc1ccc(N)cc1,59.2467301916092,n2
+180,1-Methylimidazole,THF,HOTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,44.10508038344497,n2
+181,"2,6-Lutidine",THF,HOTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,57.62895628867218,n2
+182,N-methylmorpholine,THF,HOTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,68.20921113526627,n2
+183,Diisopropylethylamine,THF,HOTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,45.89878209021707,n2
+184,1-Methylimidazole,MeCN,HOTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,44.75990917412783,n2
+185,"2,6-Lutidine",MeCN,HOTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,72.56040504195268,n2
+186,N-methylmorpholine,MeCN,HOTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,64.15126605240133,n2
+187,Diisopropylethylamine,MeCN,HOTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,35.893392020488385,n2
+188,1-Methylimidazole,DMF,HOTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cn1ccnc1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,69.4686076367934,n2
+189,"2,6-Lutidine",DMF,HOTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,Cc1cccc(C)n1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,68.59517409375427,n2
+190,N-methylmorpholine,DMF,HOTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,CN1CCOCC1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,65.8941602314391,n2
+191,Diisopropylethylamine,DMF,HOTU,1-(4-aminophenyl)-N-methylmethanesulfonamide,CCN(C(C)C)C(C)C,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CNS(=O)(=O)Cc1ccc(N)cc1,45.69030173107084,n2
+192,1-Methylimidazole,THF,PFTU,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,10.953556120793838,n3
+193,"2,6-Lutidine",THF,PFTU,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,-9.33799171591609,n3
+194,N-methylmorpholine,THF,PFTU,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,11.885831032078228,n3
+195,Diisopropylethylamine,THF,PFTU,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,2.9504875610971,n3
+196,1-Methylimidazole,MeCN,PFTU,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,18.031182752271988,n3
+197,"2,6-Lutidine",MeCN,PFTU,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,18.404068387434904,n3
+198,N-methylmorpholine,MeCN,PFTU,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,11.395249262034007,n3
+199,Diisopropylethylamine,MeCN,PFTU,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,13.959975313410164,n3
+200,1-Methylimidazole,DMF,PFTU,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,23.56382760871811,n3
+201,"2,6-Lutidine",DMF,PFTU,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,-5.313660396105117,n3
+202,N-methylmorpholine,DMF,PFTU,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,12.503130792408374,n3
+203,Diisopropylethylamine,DMF,PFTU,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,13.698256433888082,n3
+204,1-Methylimidazole,THF,TCFH,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,27.837232626576185,n3
+205,"2,6-Lutidine",THF,TCFH,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,27.119035406226068,n3
+206,N-methylmorpholine,THF,TCFH,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,37.20624105248227,n3
+207,Diisopropylethylamine,THF,TCFH,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,15.606839806007137,n3
+208,1-Methylimidazole,MeCN,TCFH,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,34.09891715042017,n3
+209,"2,6-Lutidine",MeCN,TCFH,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,4.8459259593328285,n3
+210,N-methylmorpholine,MeCN,TCFH,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,35.16452498819728,n3
+211,Diisopropylethylamine,MeCN,TCFH,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,15.218980589163039,n3
+212,1-Methylimidazole,DMF,TCFH,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,53.25149437924254,n3
+213,"2,6-Lutidine",DMF,TCFH,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,15.811418547247268,n3
+214,N-methylmorpholine,DMF,TCFH,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,-0.8132805172642312,n3
+215,Diisopropylethylamine,DMF,TCFH,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,5.668020652621607,n3
+216,1-Methylimidazole,THF,HATU,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,26.412088488364283,n3
+217,"2,6-Lutidine",THF,HATU,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,7.183681467559985,n3
+218,N-methylmorpholine,THF,HATU,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,8.011626779528125,n3
+219,Diisopropylethylamine,THF,HATU,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,19.05422112228126,n3
+220,1-Methylimidazole,MeCN,HATU,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,9.84534186733431,n3
+221,"2,6-Lutidine",MeCN,HATU,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,14.808157325436305,n3
+222,N-methylmorpholine,MeCN,HATU,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,28.977468215902306,n3
+223,Diisopropylethylamine,MeCN,HATU,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,31.838380442486013,n3
+224,1-Methylimidazole,DMF,HATU,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,38.83157457486195,n3
+225,"2,6-Lutidine",DMF,HATU,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,16.70621200099897,n3
+226,N-methylmorpholine,DMF,HATU,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,11.327101634064082,n3
+227,Diisopropylethylamine,DMF,HATU,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,41.746763913831586,n3
+228,1-Methylimidazole,THF,PyBOP,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,8.419597055910664,n3
+229,"2,6-Lutidine",THF,PyBOP,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,10.65436417162551,n3
+230,N-methylmorpholine,THF,PyBOP,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,-4.329196959513997,n3
+231,Diisopropylethylamine,THF,PyBOP,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,20.32469793155898,n3
+232,1-Methylimidazole,MeCN,PyBOP,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,3.047283245727259,n3
+233,"2,6-Lutidine",MeCN,PyBOP,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,-13.632474864812663,n3
+234,N-methylmorpholine,MeCN,PyBOP,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,9.300458273999599,n3
+235,Diisopropylethylamine,MeCN,PyBOP,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,49.03446086842321,n3
+236,1-Methylimidazole,DMF,PyBOP,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,-4.8323230212435195,n3
+237,"2,6-Lutidine",DMF,PyBOP,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,15.959656958195332,n3
+238,N-methylmorpholine,DMF,PyBOP,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,9.565973087312887,n3
+239,Diisopropylethylamine,DMF,PyBOP,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,31.273620845765812,n3
+240,1-Methylimidazole,THF,BOP-Cl,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Nc1cc(-c2ccccc2)nn1-c1ccccc1,-0.8834659713907111,n3
+241,"2,6-Lutidine",THF,BOP-Cl,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Nc1cc(-c2ccccc2)nn1-c1ccccc1,11.081989247498788,n3
+242,N-methylmorpholine,THF,BOP-Cl,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Nc1cc(-c2ccccc2)nn1-c1ccccc1,55.125950179276614,n3
+243,Diisopropylethylamine,THF,BOP-Cl,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Nc1cc(-c2ccccc2)nn1-c1ccccc1,4.666036375174277,n3
+244,1-Methylimidazole,MeCN,BOP-Cl,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Nc1cc(-c2ccccc2)nn1-c1ccccc1,54.01870119994172,n3
+245,"2,6-Lutidine",MeCN,BOP-Cl,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Nc1cc(-c2ccccc2)nn1-c1ccccc1,6.308539271434068,n3
+246,N-methylmorpholine,MeCN,BOP-Cl,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Nc1cc(-c2ccccc2)nn1-c1ccccc1,29.65977540714963,n3
+247,Diisopropylethylamine,MeCN,BOP-Cl,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Nc1cc(-c2ccccc2)nn1-c1ccccc1,1.616105790717103,n3
+248,1-Methylimidazole,DMF,BOP-Cl,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Nc1cc(-c2ccccc2)nn1-c1ccccc1,18.8055424125966,n3
+249,"2,6-Lutidine",DMF,BOP-Cl,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Nc1cc(-c2ccccc2)nn1-c1ccccc1,15.590532879380595,n3
+250,N-methylmorpholine,DMF,BOP-Cl,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Nc1cc(-c2ccccc2)nn1-c1ccccc1,7.493619689443066,n3
+251,Diisopropylethylamine,DMF,BOP-Cl,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Nc1cc(-c2ccccc2)nn1-c1ccccc1,-1.9566943344059409,n3
+252,1-Methylimidazole,THF,TFFH,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,43.31310121324684,n3
+253,"2,6-Lutidine",THF,TFFH,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,9.067390774368256,n3
+254,N-methylmorpholine,THF,TFFH,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,7.041269781241034,n3
+255,Diisopropylethylamine,THF,TFFH,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,23.50810954747327,n3
+256,1-Methylimidazole,MeCN,TFFH,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,30.212354745347312,n3
+257,"2,6-Lutidine",MeCN,TFFH,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,13.288998660895121,n3
+258,N-methylmorpholine,MeCN,TFFH,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,42.99809133878022,n3
+259,Diisopropylethylamine,MeCN,TFFH,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,-3.942301500851878,n3
+260,1-Methylimidazole,DMF,TFFH,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,45.85537674797822,n3
+261,"2,6-Lutidine",DMF,TFFH,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,7.527754375067445,n3
+262,N-methylmorpholine,DMF,TFFH,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,15.14372750073655,n3
+263,Diisopropylethylamine,DMF,TFFH,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,38.483968791955334,n3
+264,1-Methylimidazole,THF,DPPCl,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,15.870422142553075,n3
+265,"2,6-Lutidine",THF,DPPCl,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,26.908844335070707,n3
+266,N-methylmorpholine,THF,DPPCl,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,46.62120637262615,n3
+267,Diisopropylethylamine,THF,DPPCl,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,57.211850955187465,n3
+268,1-Methylimidazole,MeCN,DPPCl,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,37.314062005059576,n3
+269,"2,6-Lutidine",MeCN,DPPCl,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,35.1198302995685,n3
+270,N-methylmorpholine,MeCN,DPPCl,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,75.4797882045112,n3
+271,Diisopropylethylamine,MeCN,DPPCl,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,19.385984776396658,n3
+272,1-Methylimidazole,DMF,DPPCl,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,36.321665879061875,n3
+273,"2,6-Lutidine",DMF,DPPCl,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,12.433874510598864,n3
+274,N-methylmorpholine,DMF,DPPCl,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,45.6597589962221,n3
+275,Diisopropylethylamine,DMF,DPPCl,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,Nc1cc(-c2ccccc2)nn1-c1ccccc1,19.237477602684145,n3
+276,1-Methylimidazole,THF,HOTU,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,26.958034497069683,n3
+277,"2,6-Lutidine",THF,HOTU,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,6.863775353354312,n3
+278,N-methylmorpholine,THF,HOTU,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,-7.562780728615563,n3
+279,Diisopropylethylamine,THF,HOTU,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,6.166327491542525,n3
+280,1-Methylimidazole,MeCN,HOTU,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,50.91692201750498,n3
+281,"2,6-Lutidine",MeCN,HOTU,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,-6.190323035185921,n3
+282,N-methylmorpholine,MeCN,HOTU,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,20.753415744243366,n3
+283,Diisopropylethylamine,MeCN,HOTU,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,3.1039358450981096,n3
+284,1-Methylimidazole,DMF,HOTU,"1,3-diphenyl-1H-pyrazol-5-amine",Cn1ccnc1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,34.149124243916546,n3
+285,"2,6-Lutidine",DMF,HOTU,"1,3-diphenyl-1H-pyrazol-5-amine",Cc1cccc(C)n1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,26.478666827767995,n3
+286,N-methylmorpholine,DMF,HOTU,"1,3-diphenyl-1H-pyrazol-5-amine",CN1CCOCC1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,29.08331151793469,n3
+287,Diisopropylethylamine,DMF,HOTU,"1,3-diphenyl-1H-pyrazol-5-amine",CCN(C(C)C)C(C)C,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Nc1cc(-c2ccccc2)nn1-c1ccccc1,29.63231527000224,n3
+288,1-Methylimidazole,THF,PFTU,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,27.294589514205256,n4
+289,"2,6-Lutidine",THF,PFTU,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,-17.022555061268726,n4
+290,N-methylmorpholine,THF,PFTU,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,-11.723868863985432,n4
+291,Diisopropylethylamine,THF,PFTU,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,4.177638852618539,n4
+292,1-Methylimidazole,MeCN,PFTU,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,10.452931469019259,n4
+293,"2,6-Lutidine",MeCN,PFTU,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,20.224160288158625,n4
+294,N-methylmorpholine,MeCN,PFTU,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,-4.532580467873903,n4
+295,Diisopropylethylamine,MeCN,PFTU,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,19.082880036757686,n4
+296,1-Methylimidazole,DMF,PFTU,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,7.66001135159025,n4
+297,"2,6-Lutidine",DMF,PFTU,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,12.021065492910031,n4
+298,N-methylmorpholine,DMF,PFTU,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,3.1745572507859388,n4
+299,Diisopropylethylamine,DMF,PFTU,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,-3.8831729893817704,n4
+300,1-Methylimidazole,THF,TCFH,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,15.225671869257557,n4
+301,"2,6-Lutidine",THF,TCFH,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,9.767182935369327,n4
+302,N-methylmorpholine,THF,TCFH,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,27.391822828331296,n4
+303,Diisopropylethylamine,THF,TCFH,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,34.61068524360502,n4
+304,1-Methylimidazole,MeCN,TCFH,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,-2.494251593030018,n4
+305,"2,6-Lutidine",MeCN,TCFH,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,11.184940162260155,n4
+306,N-methylmorpholine,MeCN,TCFH,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,14.788550522949869,n4
+307,Diisopropylethylamine,MeCN,TCFH,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,35.845450021337214,n4
+308,1-Methylimidazole,DMF,TCFH,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,4.3176021049360855,n4
+309,"2,6-Lutidine",DMF,TCFH,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,23.376214866150832,n4
+310,N-methylmorpholine,DMF,TCFH,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,-1.7057828431420643,n4
+311,Diisopropylethylamine,DMF,TCFH,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,3.476387852119797,n4
+312,1-Methylimidazole,THF,HATU,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,7.046722414389025,n4
+313,"2,6-Lutidine",THF,HATU,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,15.881728832978027,n4
+314,N-methylmorpholine,THF,HATU,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,30.04714236147025,n4
+315,Diisopropylethylamine,THF,HATU,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,19.935097092522618,n4
+316,1-Methylimidazole,MeCN,HATU,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,3.9494497565464837,n4
+317,"2,6-Lutidine",MeCN,HATU,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,27.32812363944383,n4
+318,N-methylmorpholine,MeCN,HATU,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,7.300531851332406,n4
+319,Diisopropylethylamine,MeCN,HATU,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,19.074406487779484,n4
+320,1-Methylimidazole,DMF,HATU,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,20.274467364983373,n4
+321,"2,6-Lutidine",DMF,HATU,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,15.3056971216033,n4
+322,N-methylmorpholine,DMF,HATU,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,7.058480069441396,n4
+323,Diisopropylethylamine,DMF,HATU,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,17.31947690353173,n4
+324,1-Methylimidazole,THF,PyBOP,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc(C)c(N)c(Br)c1,13.611159388976898,n4
+325,"2,6-Lutidine",THF,PyBOP,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc(C)c(N)c(Br)c1,4.429925980485249,n4
+326,N-methylmorpholine,THF,PyBOP,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc(C)c(N)c(Br)c1,4.214214565125941,n4
+327,Diisopropylethylamine,THF,PyBOP,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc(C)c(N)c(Br)c1,12.261651967535435,n4
+328,1-Methylimidazole,MeCN,PyBOP,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc(C)c(N)c(Br)c1,22.853481908212686,n4
+329,"2,6-Lutidine",MeCN,PyBOP,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc(C)c(N)c(Br)c1,9.270862586868635,n4
+330,N-methylmorpholine,MeCN,PyBOP,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc(C)c(N)c(Br)c1,8.263274320301576,n4
+331,Diisopropylethylamine,MeCN,PyBOP,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc(C)c(N)c(Br)c1,19.581372444038134,n4
+332,1-Methylimidazole,DMF,PyBOP,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc(C)c(N)c(Br)c1,26.914273809568673,n4
+333,"2,6-Lutidine",DMF,PyBOP,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc(C)c(N)c(Br)c1,35.006886167339204,n4
+334,N-methylmorpholine,DMF,PyBOP,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc(C)c(N)c(Br)c1,25.537726099248534,n4
+335,Diisopropylethylamine,DMF,PyBOP,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc(C)c(N)c(Br)c1,13.898763859318043,n4
+336,1-Methylimidazole,THF,BOP-Cl,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc(C)c(N)c(Br)c1,6.217428812966667,n4
+337,"2,6-Lutidine",THF,BOP-Cl,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc(C)c(N)c(Br)c1,15.027538281192758,n4
+338,N-methylmorpholine,THF,BOP-Cl,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc(C)c(N)c(Br)c1,-2.553050667587776,n4
+339,Diisopropylethylamine,THF,BOP-Cl,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc(C)c(N)c(Br)c1,5.283876478085068,n4
+340,1-Methylimidazole,MeCN,BOP-Cl,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc(C)c(N)c(Br)c1,-15.874527656548347,n4
+341,"2,6-Lutidine",MeCN,BOP-Cl,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc(C)c(N)c(Br)c1,16.403310077668387,n4
+342,N-methylmorpholine,MeCN,BOP-Cl,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc(C)c(N)c(Br)c1,13.656488022449219,n4
+343,Diisopropylethylamine,MeCN,BOP-Cl,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc(C)c(N)c(Br)c1,15.261367299991715,n4
+344,1-Methylimidazole,DMF,BOP-Cl,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc(C)c(N)c(Br)c1,-3.8217544034528474,n4
+345,"2,6-Lutidine",DMF,BOP-Cl,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc(C)c(N)c(Br)c1,16.518765184318784,n4
+346,N-methylmorpholine,DMF,BOP-Cl,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc(C)c(N)c(Br)c1,18.1316232947323,n4
+347,Diisopropylethylamine,DMF,BOP-Cl,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc(C)c(N)c(Br)c1,-7.651023920534774,n4
+348,1-Methylimidazole,THF,TFFH,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,1.2731154762606778,n4
+349,"2,6-Lutidine",THF,TFFH,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,12.712907469767707,n4
+350,N-methylmorpholine,THF,TFFH,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,7.332434542589377,n4
+351,Diisopropylethylamine,THF,TFFH,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,25.545532592559738,n4
+352,1-Methylimidazole,MeCN,TFFH,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,-12.144072141153655,n4
+353,"2,6-Lutidine",MeCN,TFFH,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,-0.957553079380272,n4
+354,N-methylmorpholine,MeCN,TFFH,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,2.856175595510002,n4
+355,Diisopropylethylamine,MeCN,TFFH,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,13.538863996928306,n4
+356,1-Methylimidazole,DMF,TFFH,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,15.002432556116005,n4
+357,"2,6-Lutidine",DMF,TFFH,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,21.58223488517949,n4
+358,N-methylmorpholine,DMF,TFFH,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,16.528919434875355,n4
+359,Diisopropylethylamine,DMF,TFFH,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,2.3341935947433843,n4
+360,1-Methylimidazole,THF,DPPCl,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc(C)c(N)c(Br)c1,-19.380644703485526,n4
+361,"2,6-Lutidine",THF,DPPCl,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc(C)c(N)c(Br)c1,1.9802180604578483,n4
+362,N-methylmorpholine,THF,DPPCl,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc(C)c(N)c(Br)c1,14.40283701753274,n4
+363,Diisopropylethylamine,THF,DPPCl,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc(C)c(N)c(Br)c1,-4.78792112948285,n4
+364,1-Methylimidazole,MeCN,DPPCl,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc(C)c(N)c(Br)c1,4.396724673097683,n4
+365,"2,6-Lutidine",MeCN,DPPCl,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc(C)c(N)c(Br)c1,9.243667781140736,n4
+366,N-methylmorpholine,MeCN,DPPCl,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc(C)c(N)c(Br)c1,9.260082505258797,n4
+367,Diisopropylethylamine,MeCN,DPPCl,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc(C)c(N)c(Br)c1,19.720425874379977,n4
+368,1-Methylimidazole,DMF,DPPCl,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc(C)c(N)c(Br)c1,2.9858941276052695,n4
+369,"2,6-Lutidine",DMF,DPPCl,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc(C)c(N)c(Br)c1,-9.429131621391154,n4
+370,N-methylmorpholine,DMF,DPPCl,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc(C)c(N)c(Br)c1,13.509959442287133,n4
+371,Diisopropylethylamine,DMF,DPPCl,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc(C)c(N)c(Br)c1,2.06337541478017,n4
+372,1-Methylimidazole,THF,HOTU,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,7.4137305850905815,n4
+373,"2,6-Lutidine",THF,HOTU,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,10.038865027494815,n4
+374,N-methylmorpholine,THF,HOTU,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,0.5625317243351162,n4
+375,Diisopropylethylamine,THF,HOTU,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,13.026874675528461,n4
+376,1-Methylimidazole,MeCN,HOTU,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,5.063330393183056,n4
+377,"2,6-Lutidine",MeCN,HOTU,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,12.980887699241068,n4
+378,N-methylmorpholine,MeCN,HOTU,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,1.8202433303999168,n4
+379,Diisopropylethylamine,MeCN,HOTU,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,31.918174147677878,n4
+380,1-Methylimidazole,DMF,HOTU,"2-bromo-4,6-dimethylaniline",Cn1ccnc1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,5.537060155804675,n4
+381,"2,6-Lutidine",DMF,HOTU,"2-bromo-4,6-dimethylaniline",Cc1cccc(C)n1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,3.966389497905114,n4
+382,N-methylmorpholine,DMF,HOTU,"2-bromo-4,6-dimethylaniline",CN1CCOCC1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,9.266762551682781,n4
+383,Diisopropylethylamine,DMF,HOTU,"2-bromo-4,6-dimethylaniline",CCN(C(C)C)C(C)C,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc(C)c(N)c(Br)c1,15.884992243992794,n4
+384,1-Methylimidazole,THF,PFTU,3-amino-4-chlorobenzonitrile,Cn1ccnc1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,1.574852489682053,n5
+385,"2,6-Lutidine",THF,PFTU,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,1.4915560616916979,n5
+386,N-methylmorpholine,THF,PFTU,3-amino-4-chlorobenzonitrile,CN1CCOCC1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,-8.67340679179598,n5
+387,Diisopropylethylamine,THF,PFTU,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,-9.698924263990293,n5
+388,1-Methylimidazole,MeCN,PFTU,3-amino-4-chlorobenzonitrile,Cn1ccnc1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,12.65919745726959,n5
+389,"2,6-Lutidine",MeCN,PFTU,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,-3.340988834520497,n5
+390,N-methylmorpholine,MeCN,PFTU,3-amino-4-chlorobenzonitrile,CN1CCOCC1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,-9.882558579310954,n5
+391,Diisopropylethylamine,MeCN,PFTU,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,-0.8426655016926192,n5
+392,1-Methylimidazole,DMF,PFTU,3-amino-4-chlorobenzonitrile,Cn1ccnc1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,-6.677906951176242,n5
+393,"2,6-Lutidine",DMF,PFTU,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,6.286079809602607,n5
+394,N-methylmorpholine,DMF,PFTU,3-amino-4-chlorobenzonitrile,CN1CCOCC1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,7.5973364428531305,n5
+395,Diisopropylethylamine,DMF,PFTU,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,31.839746346637206,n5
+396,1-Methylimidazole,THF,TCFH,3-amino-4-chlorobenzonitrile,Cn1ccnc1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,53.50809140500077,n5
+397,"2,6-Lutidine",THF,TCFH,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,80.12578002674545,n5
+398,N-methylmorpholine,THF,TCFH,3-amino-4-chlorobenzonitrile,CN1CCOCC1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,24.526319585689446,n5
+399,Diisopropylethylamine,THF,TCFH,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,-3.0477608649966417,n5
+400,1-Methylimidazole,MeCN,TCFH,3-amino-4-chlorobenzonitrile,Cn1ccnc1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,16.259328171919027,n5
+401,"2,6-Lutidine",MeCN,TCFH,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,12.52470864872485,n5
+402,N-methylmorpholine,MeCN,TCFH,3-amino-4-chlorobenzonitrile,CN1CCOCC1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,12.506487190572873,n5
+403,Diisopropylethylamine,MeCN,TCFH,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,-0.4159717825164728,n5
+404,1-Methylimidazole,DMF,TCFH,3-amino-4-chlorobenzonitrile,Cn1ccnc1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,26.917241091670178,n5
+405,"2,6-Lutidine",DMF,TCFH,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,17.35308598711164,n5
+406,N-methylmorpholine,DMF,TCFH,3-amino-4-chlorobenzonitrile,CN1CCOCC1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,11.675306462359378,n5
+407,Diisopropylethylamine,DMF,TCFH,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,11.959474932936898,n5
+408,1-Methylimidazole,THF,HATU,3-amino-4-chlorobenzonitrile,Cn1ccnc1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,-7.460826585755705,n5
+409,"2,6-Lutidine",THF,HATU,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,10.28762564790068,n5
+410,N-methylmorpholine,THF,HATU,3-amino-4-chlorobenzonitrile,CN1CCOCC1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,-10.934513817547494,n5
+411,Diisopropylethylamine,THF,HATU,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,1.598791051695434,n5
+412,1-Methylimidazole,MeCN,HATU,3-amino-4-chlorobenzonitrile,Cn1ccnc1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,5.893971598014328,n5
+413,"2,6-Lutidine",MeCN,HATU,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,4.700624252839711,n5
+414,N-methylmorpholine,MeCN,HATU,3-amino-4-chlorobenzonitrile,CN1CCOCC1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,-8.287161763822326,n5
+415,Diisopropylethylamine,MeCN,HATU,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,27.50820986876729,n5
+416,1-Methylimidazole,DMF,HATU,3-amino-4-chlorobenzonitrile,Cn1ccnc1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,-10.99163435116479,n5
+417,"2,6-Lutidine",DMF,HATU,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,-1.935585064321879,n5
+418,N-methylmorpholine,DMF,HATU,3-amino-4-chlorobenzonitrile,CN1CCOCC1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,-0.43863809915742014,n5
+419,Diisopropylethylamine,DMF,HATU,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,28.22795401633952,n5
+420,1-Methylimidazole,THF,PyBOP,3-amino-4-chlorobenzonitrile,Cn1ccnc1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(Cl)c(N)c1,-0.36577662077848716,n5
+421,"2,6-Lutidine",THF,PyBOP,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(Cl)c(N)c1,10.847293733238299,n5
+422,N-methylmorpholine,THF,PyBOP,3-amino-4-chlorobenzonitrile,CN1CCOCC1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(Cl)c(N)c1,-4.359568699060815,n5
+423,Diisopropylethylamine,THF,PyBOP,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(Cl)c(N)c1,2.5510018405371446,n5
+424,1-Methylimidazole,MeCN,PyBOP,3-amino-4-chlorobenzonitrile,Cn1ccnc1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(Cl)c(N)c1,12.506065997339402,n5
+425,"2,6-Lutidine",MeCN,PyBOP,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(Cl)c(N)c1,-9.17558911232207,n5
+426,N-methylmorpholine,MeCN,PyBOP,3-amino-4-chlorobenzonitrile,CN1CCOCC1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(Cl)c(N)c1,7.471891848315231,n5
+427,Diisopropylethylamine,MeCN,PyBOP,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(Cl)c(N)c1,18.076898800776416,n5
+428,1-Methylimidazole,DMF,PyBOP,3-amino-4-chlorobenzonitrile,Cn1ccnc1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(Cl)c(N)c1,7.608616683900467,n5
+429,"2,6-Lutidine",DMF,PyBOP,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(Cl)c(N)c1,7.896543589840778,n5
+430,N-methylmorpholine,DMF,PyBOP,3-amino-4-chlorobenzonitrile,CN1CCOCC1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(Cl)c(N)c1,0.14616827046749847,n5
+431,Diisopropylethylamine,DMF,PyBOP,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N#Cc1ccc(Cl)c(N)c1,19.321782807184885,n5
+432,1-Methylimidazole,THF,BOP-Cl,3-amino-4-chlorobenzonitrile,Cn1ccnc1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(Cl)c(N)c1,-0.6148884413088904,n5
+433,"2,6-Lutidine",THF,BOP-Cl,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(Cl)c(N)c1,14.305431294694724,n5
+434,N-methylmorpholine,THF,BOP-Cl,3-amino-4-chlorobenzonitrile,CN1CCOCC1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(Cl)c(N)c1,23.11014861179139,n5
+435,Diisopropylethylamine,THF,BOP-Cl,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(Cl)c(N)c1,35.41487541408539,n5
+436,1-Methylimidazole,MeCN,BOP-Cl,3-amino-4-chlorobenzonitrile,Cn1ccnc1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(Cl)c(N)c1,1.4489782945512397,n5
+437,"2,6-Lutidine",MeCN,BOP-Cl,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(Cl)c(N)c1,27.685501938664395,n5
+438,N-methylmorpholine,MeCN,BOP-Cl,3-amino-4-chlorobenzonitrile,CN1CCOCC1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(Cl)c(N)c1,23.526208482495434,n5
+439,Diisopropylethylamine,MeCN,BOP-Cl,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(Cl)c(N)c1,35.41053932796495,n5
+440,1-Methylimidazole,DMF,BOP-Cl,3-amino-4-chlorobenzonitrile,Cn1ccnc1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(Cl)c(N)c1,35.6626872165392,n5
+441,"2,6-Lutidine",DMF,BOP-Cl,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(Cl)c(N)c1,30.316141851187265,n5
+442,N-methylmorpholine,DMF,BOP-Cl,3-amino-4-chlorobenzonitrile,CN1CCOCC1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(Cl)c(N)c1,30.97901048969641,n5
+443,Diisopropylethylamine,DMF,BOP-Cl,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N#Cc1ccc(Cl)c(N)c1,13.505835684833514,n5
+444,1-Methylimidazole,THF,TFFH,3-amino-4-chlorobenzonitrile,Cn1ccnc1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,5.028223153043451,n5
+445,"2,6-Lutidine",THF,TFFH,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,-3.1528681115832065,n5
+446,N-methylmorpholine,THF,TFFH,3-amino-4-chlorobenzonitrile,CN1CCOCC1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,-14.240607341808303,n5
+447,Diisopropylethylamine,THF,TFFH,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,13.236637124382185,n5
+448,1-Methylimidazole,MeCN,TFFH,3-amino-4-chlorobenzonitrile,Cn1ccnc1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,18.12152791592592,n5
+449,"2,6-Lutidine",MeCN,TFFH,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,11.740694843157065,n5
+450,N-methylmorpholine,MeCN,TFFH,3-amino-4-chlorobenzonitrile,CN1CCOCC1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,19.885264299633352,n5
+451,Diisopropylethylamine,MeCN,TFFH,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,30.60716499089532,n5
+452,1-Methylimidazole,DMF,TFFH,3-amino-4-chlorobenzonitrile,Cn1ccnc1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,33.68873886964404,n5
+453,"2,6-Lutidine",DMF,TFFH,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,9.069293668371072,n5
+454,N-methylmorpholine,DMF,TFFH,3-amino-4-chlorobenzonitrile,CN1CCOCC1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,26.795080419067993,n5
+455,Diisopropylethylamine,DMF,TFFH,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,25.009537864149916,n5
+456,1-Methylimidazole,THF,DPPCl,3-amino-4-chlorobenzonitrile,Cn1ccnc1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(Cl)c(N)c1,2.152766918353003,n5
+457,"2,6-Lutidine",THF,DPPCl,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(Cl)c(N)c1,15.948567313383155,n5
+458,N-methylmorpholine,THF,DPPCl,3-amino-4-chlorobenzonitrile,CN1CCOCC1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(Cl)c(N)c1,18.216968160881716,n5
+459,Diisopropylethylamine,THF,DPPCl,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(Cl)c(N)c1,31.12277340072996,n5
+460,1-Methylimidazole,MeCN,DPPCl,3-amino-4-chlorobenzonitrile,Cn1ccnc1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(Cl)c(N)c1,20.913498379902528,n5
+461,"2,6-Lutidine",MeCN,DPPCl,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(Cl)c(N)c1,14.418838926849194,n5
+462,N-methylmorpholine,MeCN,DPPCl,3-amino-4-chlorobenzonitrile,CN1CCOCC1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(Cl)c(N)c1,14.053761898862808,n5
+463,Diisopropylethylamine,MeCN,DPPCl,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(Cl)c(N)c1,40.58627511206633,n5
+464,1-Methylimidazole,DMF,DPPCl,3-amino-4-chlorobenzonitrile,Cn1ccnc1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(Cl)c(N)c1,26.76282183690528,n5
+465,"2,6-Lutidine",DMF,DPPCl,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(Cl)c(N)c1,19.275096950199988,n5
+466,N-methylmorpholine,DMF,DPPCl,3-amino-4-chlorobenzonitrile,CN1CCOCC1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(Cl)c(N)c1,46.761061637242406,n5
+467,Diisopropylethylamine,DMF,DPPCl,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,N#Cc1ccc(Cl)c(N)c1,56.094949886966376,n5
+468,1-Methylimidazole,THF,HOTU,3-amino-4-chlorobenzonitrile,Cn1ccnc1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,-5.326568845378242,n5
+469,"2,6-Lutidine",THF,HOTU,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,9.818265512943311,n5
+470,N-methylmorpholine,THF,HOTU,3-amino-4-chlorobenzonitrile,CN1CCOCC1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,0.8325910589010883,n5
+471,Diisopropylethylamine,THF,HOTU,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,15.780714679129293,n5
+472,1-Methylimidazole,MeCN,HOTU,3-amino-4-chlorobenzonitrile,Cn1ccnc1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,4.103739105239522,n5
+473,"2,6-Lutidine",MeCN,HOTU,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,-3.074468003799826,n5
+474,N-methylmorpholine,MeCN,HOTU,3-amino-4-chlorobenzonitrile,CN1CCOCC1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,11.533761676746272,n5
+475,Diisopropylethylamine,MeCN,HOTU,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,-0.8764082145453784,n5
+476,1-Methylimidazole,DMF,HOTU,3-amino-4-chlorobenzonitrile,Cn1ccnc1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,17.451046426450795,n5
+477,"2,6-Lutidine",DMF,HOTU,3-amino-4-chlorobenzonitrile,Cc1cccc(C)n1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,4.671064980753169,n5
+478,N-methylmorpholine,DMF,HOTU,3-amino-4-chlorobenzonitrile,CN1CCOCC1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,-3.3968613564065455,n5
+479,Diisopropylethylamine,DMF,HOTU,3-amino-4-chlorobenzonitrile,CCN(C(C)C)C(C)C,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N#Cc1ccc(Cl)c(N)c1,24.291591879383727,n5
+480,1-Methylimidazole,THF,PFTU,2-methyl-4-nitroaniline,Cn1ccnc1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,0.2858608451678879,n6
+481,"2,6-Lutidine",THF,PFTU,2-methyl-4-nitroaniline,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,6.302182313223551,n6
+482,N-methylmorpholine,THF,PFTU,2-methyl-4-nitroaniline,CN1CCOCC1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,1.8803074838542118,n6
+483,Diisopropylethylamine,THF,PFTU,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,-3.001951088042512,n6
+484,1-Methylimidazole,MeCN,PFTU,2-methyl-4-nitroaniline,Cn1ccnc1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,7.365740875287344,n6
+485,"2,6-Lutidine",MeCN,PFTU,2-methyl-4-nitroaniline,Cc1cccc(C)n1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,9.862275909237994,n6
+486,N-methylmorpholine,MeCN,PFTU,2-methyl-4-nitroaniline,CN1CCOCC1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,18.01451502088366,n6
+487,Diisopropylethylamine,MeCN,PFTU,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,-9.064803733957437,n6
+488,1-Methylimidazole,DMF,PFTU,2-methyl-4-nitroaniline,Cn1ccnc1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,17.361444276394057,n6
+489,"2,6-Lutidine",DMF,PFTU,2-methyl-4-nitroaniline,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,-12.918500549508389,n6
+490,N-methylmorpholine,DMF,PFTU,2-methyl-4-nitroaniline,CN1CCOCC1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,3.6034386499637385,n6
+491,Diisopropylethylamine,DMF,PFTU,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,-18.07529991804389,n6
+492,1-Methylimidazole,THF,TCFH,2-methyl-4-nitroaniline,Cn1ccnc1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,-4.313391208378174,n6
+493,"2,6-Lutidine",THF,TCFH,2-methyl-4-nitroaniline,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,11.896244309851166,n6
+494,N-methylmorpholine,THF,TCFH,2-methyl-4-nitroaniline,CN1CCOCC1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,7.66334705336081,n6
+495,Diisopropylethylamine,THF,TCFH,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,0.4865038927265206,n6
+496,1-Methylimidazole,MeCN,TCFH,2-methyl-4-nitroaniline,Cn1ccnc1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,9.259758356345158,n6
+497,"2,6-Lutidine",MeCN,TCFH,2-methyl-4-nitroaniline,Cc1cccc(C)n1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,10.13110273479492,n6
+498,N-methylmorpholine,MeCN,TCFH,2-methyl-4-nitroaniline,CN1CCOCC1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,11.338444405026506,n6
+499,Diisopropylethylamine,MeCN,TCFH,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,-1.8368190589882252,n6
+500,1-Methylimidazole,DMF,TCFH,2-methyl-4-nitroaniline,Cn1ccnc1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,-1.1086269607724462,n6
+501,"2,6-Lutidine",DMF,TCFH,2-methyl-4-nitroaniline,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,-13.918099010161672,n6
+502,N-methylmorpholine,DMF,TCFH,2-methyl-4-nitroaniline,CN1CCOCC1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,14.996651879064162,n6
+503,Diisopropylethylamine,DMF,TCFH,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,-3.0944886273807892,n6
+504,1-Methylimidazole,THF,HATU,2-methyl-4-nitroaniline,Cn1ccnc1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,4.195847045540713,n6
+505,"2,6-Lutidine",THF,HATU,2-methyl-4-nitroaniline,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,8.113905787797616,n6
+506,N-methylmorpholine,THF,HATU,2-methyl-4-nitroaniline,CN1CCOCC1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,11.796462285651327,n6
+507,Diisopropylethylamine,THF,HATU,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,0.73944663165102,n6
+508,1-Methylimidazole,MeCN,HATU,2-methyl-4-nitroaniline,Cn1ccnc1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,15.868138789215788,n6
+509,"2,6-Lutidine",MeCN,HATU,2-methyl-4-nitroaniline,Cc1cccc(C)n1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,4.961298748480245,n6
+510,N-methylmorpholine,MeCN,HATU,2-methyl-4-nitroaniline,CN1CCOCC1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,5.38686189952544,n6
+511,Diisopropylethylamine,MeCN,HATU,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,14.626881783373236,n6
+512,1-Methylimidazole,DMF,HATU,2-methyl-4-nitroaniline,Cn1ccnc1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,0.720749414800901,n6
+513,"2,6-Lutidine",DMF,HATU,2-methyl-4-nitroaniline,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,-0.5191039495235359,n6
+514,N-methylmorpholine,DMF,HATU,2-methyl-4-nitroaniline,CN1CCOCC1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,7.148233893511084,n6
+515,Diisopropylethylamine,DMF,HATU,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,-4.4357723507738385,n6
+516,1-Methylimidazole,THF,PyBOP,2-methyl-4-nitroaniline,Cn1ccnc1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc([N+](=O)[O-])ccc1N,12.846371562476424,n6
+517,"2,6-Lutidine",THF,PyBOP,2-methyl-4-nitroaniline,Cc1cccc(C)n1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc([N+](=O)[O-])ccc1N,-10.379546796338557,n6
+518,N-methylmorpholine,THF,PyBOP,2-methyl-4-nitroaniline,CN1CCOCC1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc([N+](=O)[O-])ccc1N,12.405932762911027,n6
+519,Diisopropylethylamine,THF,PyBOP,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc([N+](=O)[O-])ccc1N,21.444009859115624,n6
+520,1-Methylimidazole,MeCN,PyBOP,2-methyl-4-nitroaniline,Cn1ccnc1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc([N+](=O)[O-])ccc1N,-8.27053627292155,n6
+521,"2,6-Lutidine",MeCN,PyBOP,2-methyl-4-nitroaniline,Cc1cccc(C)n1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc([N+](=O)[O-])ccc1N,0.04859085566202603,n6
+522,N-methylmorpholine,MeCN,PyBOP,2-methyl-4-nitroaniline,CN1CCOCC1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc([N+](=O)[O-])ccc1N,4.102795575974671,n6
+523,Diisopropylethylamine,MeCN,PyBOP,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc([N+](=O)[O-])ccc1N,1.013449636003612,n6
+524,1-Methylimidazole,DMF,PyBOP,2-methyl-4-nitroaniline,Cn1ccnc1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc([N+](=O)[O-])ccc1N,22.459010399443233,n6
+525,"2,6-Lutidine",DMF,PyBOP,2-methyl-4-nitroaniline,Cc1cccc(C)n1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc([N+](=O)[O-])ccc1N,-3.4419779173223275,n6
+526,N-methylmorpholine,DMF,PyBOP,2-methyl-4-nitroaniline,CN1CCOCC1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc([N+](=O)[O-])ccc1N,2.8731351967359187,n6
+527,Diisopropylethylamine,DMF,PyBOP,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1cc([N+](=O)[O-])ccc1N,0.8668876753709993,n6
+528,1-Methylimidazole,THF,BOP-Cl,2-methyl-4-nitroaniline,Cn1ccnc1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc([N+](=O)[O-])ccc1N,28.146556337815227,n6
+529,"2,6-Lutidine",THF,BOP-Cl,2-methyl-4-nitroaniline,Cc1cccc(C)n1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc([N+](=O)[O-])ccc1N,5.778005683271747,n6
+530,N-methylmorpholine,THF,BOP-Cl,2-methyl-4-nitroaniline,CN1CCOCC1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc([N+](=O)[O-])ccc1N,20.497945959324024,n6
+531,Diisopropylethylamine,THF,BOP-Cl,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc([N+](=O)[O-])ccc1N,4.56160838408476,n6
+532,1-Methylimidazole,MeCN,BOP-Cl,2-methyl-4-nitroaniline,Cn1ccnc1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc([N+](=O)[O-])ccc1N,-8.363814650530703,n6
+533,"2,6-Lutidine",MeCN,BOP-Cl,2-methyl-4-nitroaniline,Cc1cccc(C)n1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc([N+](=O)[O-])ccc1N,7.026529585662331,n6
+534,N-methylmorpholine,MeCN,BOP-Cl,2-methyl-4-nitroaniline,CN1CCOCC1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc([N+](=O)[O-])ccc1N,-0.9299341836415442,n6
+535,Diisopropylethylamine,MeCN,BOP-Cl,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc([N+](=O)[O-])ccc1N,2.072333512228196,n6
+536,1-Methylimidazole,DMF,BOP-Cl,2-methyl-4-nitroaniline,Cn1ccnc1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc([N+](=O)[O-])ccc1N,3.512950138498507,n6
+537,"2,6-Lutidine",DMF,BOP-Cl,2-methyl-4-nitroaniline,Cc1cccc(C)n1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc([N+](=O)[O-])ccc1N,-1.1256274430861133,n6
+538,N-methylmorpholine,DMF,BOP-Cl,2-methyl-4-nitroaniline,CN1CCOCC1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc([N+](=O)[O-])ccc1N,12.114345880479455,n6
+539,Diisopropylethylamine,DMF,BOP-Cl,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1cc([N+](=O)[O-])ccc1N,-0.6706758605071408,n6
+540,1-Methylimidazole,THF,TFFH,2-methyl-4-nitroaniline,Cn1ccnc1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,-5.725191933743145,n6
+541,"2,6-Lutidine",THF,TFFH,2-methyl-4-nitroaniline,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,15.788754467582475,n6
+542,N-methylmorpholine,THF,TFFH,2-methyl-4-nitroaniline,CN1CCOCC1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,-6.106205339917418,n6
+543,Diisopropylethylamine,THF,TFFH,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,10.11811837154788,n6
+544,1-Methylimidazole,MeCN,TFFH,2-methyl-4-nitroaniline,Cn1ccnc1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,0.18919779503751544,n6
+545,"2,6-Lutidine",MeCN,TFFH,2-methyl-4-nitroaniline,Cc1cccc(C)n1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,-4.399874847677591,n6
+546,N-methylmorpholine,MeCN,TFFH,2-methyl-4-nitroaniline,CN1CCOCC1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,13.548217890407576,n6
+547,Diisopropylethylamine,MeCN,TFFH,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,0.8843280460235634,n6
+548,1-Methylimidazole,DMF,TFFH,2-methyl-4-nitroaniline,Cn1ccnc1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,7.8266733743844865,n6
+549,"2,6-Lutidine",DMF,TFFH,2-methyl-4-nitroaniline,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,0.260008851080455,n6
+550,N-methylmorpholine,DMF,TFFH,2-methyl-4-nitroaniline,CN1CCOCC1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,-10.22112311343661,n6
+551,Diisopropylethylamine,DMF,TFFH,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,4.096697936158122,n6
+552,1-Methylimidazole,THF,DPPCl,2-methyl-4-nitroaniline,Cn1ccnc1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc([N+](=O)[O-])ccc1N,20.30643176852566,n6
+553,"2,6-Lutidine",THF,DPPCl,2-methyl-4-nitroaniline,Cc1cccc(C)n1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc([N+](=O)[O-])ccc1N,-1.725824710919838,n6
+554,N-methylmorpholine,THF,DPPCl,2-methyl-4-nitroaniline,CN1CCOCC1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc([N+](=O)[O-])ccc1N,-3.2790734112023188,n6
+555,Diisopropylethylamine,THF,DPPCl,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc([N+](=O)[O-])ccc1N,0.2161454739645614,n6
+556,1-Methylimidazole,MeCN,DPPCl,2-methyl-4-nitroaniline,Cn1ccnc1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc([N+](=O)[O-])ccc1N,1.2116503352960237,n6
+557,"2,6-Lutidine",MeCN,DPPCl,2-methyl-4-nitroaniline,Cc1cccc(C)n1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc([N+](=O)[O-])ccc1N,12.662947121033714,n6
+558,N-methylmorpholine,MeCN,DPPCl,2-methyl-4-nitroaniline,CN1CCOCC1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc([N+](=O)[O-])ccc1N,7.179891276627816,n6
+559,Diisopropylethylamine,MeCN,DPPCl,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc([N+](=O)[O-])ccc1N,-8.853746861953283,n6
+560,1-Methylimidazole,DMF,DPPCl,2-methyl-4-nitroaniline,Cn1ccnc1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc([N+](=O)[O-])ccc1N,-13.8208578695395,n6
+561,"2,6-Lutidine",DMF,DPPCl,2-methyl-4-nitroaniline,Cc1cccc(C)n1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc([N+](=O)[O-])ccc1N,8.569355050034417,n6
+562,N-methylmorpholine,DMF,DPPCl,2-methyl-4-nitroaniline,CN1CCOCC1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc([N+](=O)[O-])ccc1N,10.821198863204973,n6
+563,Diisopropylethylamine,DMF,DPPCl,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1cc([N+](=O)[O-])ccc1N,10.776919275082603,n6
+564,1-Methylimidazole,THF,HOTU,2-methyl-4-nitroaniline,Cn1ccnc1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,-3.2992856637985426,n6
+565,"2,6-Lutidine",THF,HOTU,2-methyl-4-nitroaniline,Cc1cccc(C)n1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,-19.32282577053121,n6
+566,N-methylmorpholine,THF,HOTU,2-methyl-4-nitroaniline,CN1CCOCC1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,3.789400912387576,n6
+567,Diisopropylethylamine,THF,HOTU,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,12.720264438925563,n6
+568,1-Methylimidazole,MeCN,HOTU,2-methyl-4-nitroaniline,Cn1ccnc1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,-0.5400151194196554,n6
+569,"2,6-Lutidine",MeCN,HOTU,2-methyl-4-nitroaniline,Cc1cccc(C)n1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,8.816257292987052,n6
+570,N-methylmorpholine,MeCN,HOTU,2-methyl-4-nitroaniline,CN1CCOCC1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,2.758892282854971,n6
+571,Diisopropylethylamine,MeCN,HOTU,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,-0.5006445111201154,n6
+572,1-Methylimidazole,DMF,HOTU,2-methyl-4-nitroaniline,Cn1ccnc1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,-11.417730167922802,n6
+573,"2,6-Lutidine",DMF,HOTU,2-methyl-4-nitroaniline,Cc1cccc(C)n1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,8.082649885896648,n6
+574,N-methylmorpholine,DMF,HOTU,2-methyl-4-nitroaniline,CN1CCOCC1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,-17.717844964818628,n6
+575,Diisopropylethylamine,DMF,HOTU,2-methyl-4-nitroaniline,CCN(C(C)C)C(C)C,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1cc([N+](=O)[O-])ccc1N,8.463113415129655,n6
+576,1-Methylimidazole,THF,PFTU,6-methylquinolin-5-amine,Cn1ccnc1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,4.556819691499105,n7
+577,"2,6-Lutidine",THF,PFTU,6-methylquinolin-5-amine,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,8.603304056370302,n7
+578,N-methylmorpholine,THF,PFTU,6-methylquinolin-5-amine,CN1CCOCC1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,-1.229721268091113,n7
+579,Diisopropylethylamine,THF,PFTU,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,2.4187376084340984,n7
+580,1-Methylimidazole,MeCN,PFTU,6-methylquinolin-5-amine,Cn1ccnc1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,20.745119701015383,n7
+581,"2,6-Lutidine",MeCN,PFTU,6-methylquinolin-5-amine,Cc1cccc(C)n1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,7.141833269289534,n7
+582,N-methylmorpholine,MeCN,PFTU,6-methylquinolin-5-amine,CN1CCOCC1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,3.4072549832249717,n7
+583,Diisopropylethylamine,MeCN,PFTU,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,9.206357126362281,n7
+584,1-Methylimidazole,DMF,PFTU,6-methylquinolin-5-amine,Cn1ccnc1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,41.17456764441938,n7
+585,"2,6-Lutidine",DMF,PFTU,6-methylquinolin-5-amine,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,7.987026212693644,n7
+586,N-methylmorpholine,DMF,PFTU,6-methylquinolin-5-amine,CN1CCOCC1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,-8.176775411093649,n7
+587,Diisopropylethylamine,DMF,PFTU,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,51.3449698258166,n7
+588,1-Methylimidazole,THF,TCFH,6-methylquinolin-5-amine,Cn1ccnc1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,9.468128799662574,n7
+589,"2,6-Lutidine",THF,TCFH,6-methylquinolin-5-amine,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,64.0526367398124,n7
+590,N-methylmorpholine,THF,TCFH,6-methylquinolin-5-amine,CN1CCOCC1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,55.06933393432334,n7
+591,Diisopropylethylamine,THF,TCFH,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,51.91650371090091,n7
+592,1-Methylimidazole,MeCN,TCFH,6-methylquinolin-5-amine,Cn1ccnc1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,29.156994495680316,n7
+593,"2,6-Lutidine",MeCN,TCFH,6-methylquinolin-5-amine,Cc1cccc(C)n1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,21.29057638025988,n7
+594,N-methylmorpholine,MeCN,TCFH,6-methylquinolin-5-amine,CN1CCOCC1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,78.6435253119377,n7
+595,Diisopropylethylamine,MeCN,TCFH,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,23.895507602304033,n7
+596,1-Methylimidazole,DMF,TCFH,6-methylquinolin-5-amine,Cn1ccnc1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,51.02676826124355,n7
+597,"2,6-Lutidine",DMF,TCFH,6-methylquinolin-5-amine,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,39.73957757367179,n7
+598,N-methylmorpholine,DMF,TCFH,6-methylquinolin-5-amine,CN1CCOCC1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,38.99064988573567,n7
+599,Diisopropylethylamine,DMF,TCFH,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,40.91289111380489,n7
+600,1-Methylimidazole,THF,HATU,6-methylquinolin-5-amine,Cn1ccnc1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,-11.15241535115628,n7
+601,"2,6-Lutidine",THF,HATU,6-methylquinolin-5-amine,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,6.114289961588152,n7
+602,N-methylmorpholine,THF,HATU,6-methylquinolin-5-amine,CN1CCOCC1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,20.64163726873327,n7
+603,Diisopropylethylamine,THF,HATU,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,49.15012396472239,n7
+604,1-Methylimidazole,MeCN,HATU,6-methylquinolin-5-amine,Cn1ccnc1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,59.133941636501575,n7
+605,"2,6-Lutidine",MeCN,HATU,6-methylquinolin-5-amine,Cc1cccc(C)n1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,21.976599108420178,n7
+606,N-methylmorpholine,MeCN,HATU,6-methylquinolin-5-amine,CN1CCOCC1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,20.52375345025933,n7
+607,Diisopropylethylamine,MeCN,HATU,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,37.46667969555425,n7
+608,1-Methylimidazole,DMF,HATU,6-methylquinolin-5-amine,Cn1ccnc1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,55.37602076296071,n7
+609,"2,6-Lutidine",DMF,HATU,6-methylquinolin-5-amine,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,39.81820312392551,n7
+610,N-methylmorpholine,DMF,HATU,6-methylquinolin-5-amine,CN1CCOCC1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,62.57180907935707,n7
+611,Diisopropylethylamine,DMF,HATU,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,48.33660339380995,n7
+612,1-Methylimidazole,THF,PyBOP,6-methylquinolin-5-amine,Cn1ccnc1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1ccc2ncccc2c1N,38.13698300550875,n7
+613,"2,6-Lutidine",THF,PyBOP,6-methylquinolin-5-amine,Cc1cccc(C)n1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1ccc2ncccc2c1N,17.859802399158816,n7
+614,N-methylmorpholine,THF,PyBOP,6-methylquinolin-5-amine,CN1CCOCC1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1ccc2ncccc2c1N,-9.22959573429131,n7
+615,Diisopropylethylamine,THF,PyBOP,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1ccc2ncccc2c1N,18.001086449726518,n7
+616,1-Methylimidazole,MeCN,PyBOP,6-methylquinolin-5-amine,Cn1ccnc1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1ccc2ncccc2c1N,24.604240966364028,n7
+617,"2,6-Lutidine",MeCN,PyBOP,6-methylquinolin-5-amine,Cc1cccc(C)n1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1ccc2ncccc2c1N,7.173524956865848,n7
+618,N-methylmorpholine,MeCN,PyBOP,6-methylquinolin-5-amine,CN1CCOCC1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1ccc2ncccc2c1N,24.065638461266484,n7
+619,Diisopropylethylamine,MeCN,PyBOP,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1ccc2ncccc2c1N,37.47094316168577,n7
+620,1-Methylimidazole,DMF,PyBOP,6-methylquinolin-5-amine,Cn1ccnc1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1ccc2ncccc2c1N,27.979422998214517,n7
+621,"2,6-Lutidine",DMF,PyBOP,6-methylquinolin-5-amine,Cc1cccc(C)n1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1ccc2ncccc2c1N,19.564670942873995,n7
+622,N-methylmorpholine,DMF,PyBOP,6-methylquinolin-5-amine,CN1CCOCC1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1ccc2ncccc2c1N,27.10401967873811,n7
+623,Diisopropylethylamine,DMF,PyBOP,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,Cc1ccc2ncccc2c1N,20.186904139831622,n7
+624,1-Methylimidazole,THF,BOP-Cl,6-methylquinolin-5-amine,Cn1ccnc1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1ccc2ncccc2c1N,78.6538645224503,n7
+625,"2,6-Lutidine",THF,BOP-Cl,6-methylquinolin-5-amine,Cc1cccc(C)n1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1ccc2ncccc2c1N,-11.071761661107049,n7
+626,N-methylmorpholine,THF,BOP-Cl,6-methylquinolin-5-amine,CN1CCOCC1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1ccc2ncccc2c1N,62.73379479591693,n7
+627,Diisopropylethylamine,THF,BOP-Cl,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1ccc2ncccc2c1N,41.110112443122055,n7
+628,1-Methylimidazole,MeCN,BOP-Cl,6-methylquinolin-5-amine,Cn1ccnc1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1ccc2ncccc2c1N,51.89731442966758,n7
+629,"2,6-Lutidine",MeCN,BOP-Cl,6-methylquinolin-5-amine,Cc1cccc(C)n1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1ccc2ncccc2c1N,-6.659748627844721,n7
+630,N-methylmorpholine,MeCN,BOP-Cl,6-methylquinolin-5-amine,CN1CCOCC1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1ccc2ncccc2c1N,86.41538969732208,n7
+631,Diisopropylethylamine,MeCN,BOP-Cl,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1ccc2ncccc2c1N,65.48917240652656,n7
+632,1-Methylimidazole,DMF,BOP-Cl,6-methylquinolin-5-amine,Cn1ccnc1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1ccc2ncccc2c1N,61.9788147899107,n7
+633,"2,6-Lutidine",DMF,BOP-Cl,6-methylquinolin-5-amine,Cc1cccc(C)n1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1ccc2ncccc2c1N,74.68916268125876,n7
+634,N-methylmorpholine,DMF,BOP-Cl,6-methylquinolin-5-amine,CN1CCOCC1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1ccc2ncccc2c1N,14.95593642703379,n7
+635,Diisopropylethylamine,DMF,BOP-Cl,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,Cc1ccc2ncccc2c1N,-3.545529659687624,n7
+636,1-Methylimidazole,THF,TFFH,6-methylquinolin-5-amine,Cn1ccnc1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,33.0676828260603,n7
+637,"2,6-Lutidine",THF,TFFH,6-methylquinolin-5-amine,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,-0.7077546633219608,n7
+638,N-methylmorpholine,THF,TFFH,6-methylquinolin-5-amine,CN1CCOCC1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,7.525820400177533,n7
+639,Diisopropylethylamine,THF,TFFH,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,-4.979550458405594,n7
+640,1-Methylimidazole,MeCN,TFFH,6-methylquinolin-5-amine,Cn1ccnc1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,64.27319227634976,n7
+641,"2,6-Lutidine",MeCN,TFFH,6-methylquinolin-5-amine,Cc1cccc(C)n1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,14.050452731691239,n7
+642,N-methylmorpholine,MeCN,TFFH,6-methylquinolin-5-amine,CN1CCOCC1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,25.014588085050473,n7
+643,Diisopropylethylamine,MeCN,TFFH,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,23.05694971756699,n7
+644,1-Methylimidazole,DMF,TFFH,6-methylquinolin-5-amine,Cn1ccnc1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,7.377049642032883,n7
+645,"2,6-Lutidine",DMF,TFFH,6-methylquinolin-5-amine,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,-0.849090022760759,n7
+646,N-methylmorpholine,DMF,TFFH,6-methylquinolin-5-amine,CN1CCOCC1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,12.08852646021139,n7
+647,Diisopropylethylamine,DMF,TFFH,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,52.89754288227388,n7
+648,1-Methylimidazole,THF,DPPCl,6-methylquinolin-5-amine,Cn1ccnc1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1ccc2ncccc2c1N,52.89942613556509,n7
+649,"2,6-Lutidine",THF,DPPCl,6-methylquinolin-5-amine,Cc1cccc(C)n1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1ccc2ncccc2c1N,41.01427634444587,n7
+650,N-methylmorpholine,THF,DPPCl,6-methylquinolin-5-amine,CN1CCOCC1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1ccc2ncccc2c1N,45.661860173922435,n7
+651,Diisopropylethylamine,THF,DPPCl,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1ccc2ncccc2c1N,26.246261416484092,n7
+652,1-Methylimidazole,MeCN,DPPCl,6-methylquinolin-5-amine,Cn1ccnc1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1ccc2ncccc2c1N,47.0561563191029,n7
+653,"2,6-Lutidine",MeCN,DPPCl,6-methylquinolin-5-amine,Cc1cccc(C)n1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1ccc2ncccc2c1N,70.74564648856322,n7
+654,N-methylmorpholine,MeCN,DPPCl,6-methylquinolin-5-amine,CN1CCOCC1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1ccc2ncccc2c1N,73.30812715508706,n7
+655,Diisopropylethylamine,MeCN,DPPCl,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1ccc2ncccc2c1N,23.800982810428366,n7
+656,1-Methylimidazole,DMF,DPPCl,6-methylquinolin-5-amine,Cn1ccnc1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1ccc2ncccc2c1N,39.8606424860819,n7
+657,"2,6-Lutidine",DMF,DPPCl,6-methylquinolin-5-amine,Cc1cccc(C)n1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1ccc2ncccc2c1N,46.120539576978025,n7
+658,N-methylmorpholine,DMF,DPPCl,6-methylquinolin-5-amine,CN1CCOCC1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1ccc2ncccc2c1N,70.9114106247022,n7
+659,Diisopropylethylamine,DMF,DPPCl,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,Cc1ccc2ncccc2c1N,1.2576657579367172,n7
+660,1-Methylimidazole,THF,HOTU,6-methylquinolin-5-amine,Cn1ccnc1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,4.59894712458177,n7
+661,"2,6-Lutidine",THF,HOTU,6-methylquinolin-5-amine,Cc1cccc(C)n1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,2.2183306689947067,n7
+662,N-methylmorpholine,THF,HOTU,6-methylquinolin-5-amine,CN1CCOCC1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,34.97936611859112,n7
+663,Diisopropylethylamine,THF,HOTU,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,35.23297046050333,n7
+664,1-Methylimidazole,MeCN,HOTU,6-methylquinolin-5-amine,Cn1ccnc1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,-12.043702405710217,n7
+665,"2,6-Lutidine",MeCN,HOTU,6-methylquinolin-5-amine,Cc1cccc(C)n1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,30.489283886315693,n7
+666,N-methylmorpholine,MeCN,HOTU,6-methylquinolin-5-amine,CN1CCOCC1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,44.78551091326492,n7
+667,Diisopropylethylamine,MeCN,HOTU,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,25.759234324777715,n7
+668,1-Methylimidazole,DMF,HOTU,6-methylquinolin-5-amine,Cn1ccnc1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,80.98490283050879,n7
+669,"2,6-Lutidine",DMF,HOTU,6-methylquinolin-5-amine,Cc1cccc(C)n1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,73.75721814246866,n7
+670,N-methylmorpholine,DMF,HOTU,6-methylquinolin-5-amine,CN1CCOCC1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,42.59437601209804,n7
+671,Diisopropylethylamine,DMF,HOTU,6-methylquinolin-5-amine,CCN(C(C)C)C(C)C,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,Cc1ccc2ncccc2c1N,12.476591514236377,n7
+672,1-Methylimidazole,THF,PFTU,"2,6-diisopropylaniline",Cn1ccnc1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,-3.0950840684475853,n8
+673,"2,6-Lutidine",THF,PFTU,"2,6-diisopropylaniline",Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,20.90346472697647,n8
+674,N-methylmorpholine,THF,PFTU,"2,6-diisopropylaniline",CN1CCOCC1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,-0.4696357424749027,n8
+675,Diisopropylethylamine,THF,PFTU,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,-0.42714012885035046,n8
+676,1-Methylimidazole,MeCN,PFTU,"2,6-diisopropylaniline",Cn1ccnc1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,-0.33751156007095595,n8
+677,"2,6-Lutidine",MeCN,PFTU,"2,6-diisopropylaniline",Cc1cccc(C)n1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,13.797630112038167,n8
+678,N-methylmorpholine,MeCN,PFTU,"2,6-diisopropylaniline",CN1CCOCC1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,11.717595902856862,n8
+679,Diisopropylethylamine,MeCN,PFTU,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,23.944774434232983,n8
+680,1-Methylimidazole,DMF,PFTU,"2,6-diisopropylaniline",Cn1ccnc1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,30.525026601875133,n8
+681,"2,6-Lutidine",DMF,PFTU,"2,6-diisopropylaniline",Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,12.685150903703097,n8
+682,N-methylmorpholine,DMF,PFTU,"2,6-diisopropylaniline",CN1CCOCC1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,-8.122178956893357,n8
+683,Diisopropylethylamine,DMF,PFTU,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,14.166395096102198,n8
+684,1-Methylimidazole,THF,TCFH,"2,6-diisopropylaniline",Cn1ccnc1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,29.771961187151117,n8
+685,"2,6-Lutidine",THF,TCFH,"2,6-diisopropylaniline",Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,31.77036958205914,n8
+686,N-methylmorpholine,THF,TCFH,"2,6-diisopropylaniline",CN1CCOCC1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,2.553029964454682,n8
+687,Diisopropylethylamine,THF,TCFH,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,22.17983483299603,n8
+688,1-Methylimidazole,MeCN,TCFH,"2,6-diisopropylaniline",Cn1ccnc1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,23.36797832809992,n8
+689,"2,6-Lutidine",MeCN,TCFH,"2,6-diisopropylaniline",Cc1cccc(C)n1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,9.30474388599168,n8
+690,N-methylmorpholine,MeCN,TCFH,"2,6-diisopropylaniline",CN1CCOCC1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,29.885514167787694,n8
+691,Diisopropylethylamine,MeCN,TCFH,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,3.1550322030998013,n8
+692,1-Methylimidazole,DMF,TCFH,"2,6-diisopropylaniline",Cn1ccnc1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,9.843267325163044,n8
+693,"2,6-Lutidine",DMF,TCFH,"2,6-diisopropylaniline",Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,21.07072265151842,n8
+694,N-methylmorpholine,DMF,TCFH,"2,6-diisopropylaniline",CN1CCOCC1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,18.474591588561104,n8
+695,Diisopropylethylamine,DMF,TCFH,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,22.346138720261823,n8
+696,1-Methylimidazole,THF,HATU,"2,6-diisopropylaniline",Cn1ccnc1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,-2.3005614310327056,n8
+697,"2,6-Lutidine",THF,HATU,"2,6-diisopropylaniline",Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,11.886118707131777,n8
+698,N-methylmorpholine,THF,HATU,"2,6-diisopropylaniline",CN1CCOCC1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,-3.6205016157110865,n8
+699,Diisopropylethylamine,THF,HATU,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,0.0967853660083069,n8
+700,1-Methylimidazole,MeCN,HATU,"2,6-diisopropylaniline",Cn1ccnc1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,15.436321182083244,n8
+701,"2,6-Lutidine",MeCN,HATU,"2,6-diisopropylaniline",Cc1cccc(C)n1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,26.727365674660486,n8
+702,N-methylmorpholine,MeCN,HATU,"2,6-diisopropylaniline",CN1CCOCC1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,17.796714865995646,n8
+703,Diisopropylethylamine,MeCN,HATU,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,3.8723990899334275,n8
+704,1-Methylimidazole,DMF,HATU,"2,6-diisopropylaniline",Cn1ccnc1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,20.58438320130586,n8
+705,"2,6-Lutidine",DMF,HATU,"2,6-diisopropylaniline",Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,30.371061480436932,n8
+706,N-methylmorpholine,DMF,HATU,"2,6-diisopropylaniline",CN1CCOCC1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,17.377914745726976,n8
+707,Diisopropylethylamine,DMF,HATU,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,5.071475147700609,n8
+708,1-Methylimidazole,THF,PyBOP,"2,6-diisopropylaniline",Cn1ccnc1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CC(C)c1cccc(C(C)C)c1N,-7.060877595049327,n8
+709,"2,6-Lutidine",THF,PyBOP,"2,6-diisopropylaniline",Cc1cccc(C)n1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CC(C)c1cccc(C(C)C)c1N,31.288546365626843,n8
+710,N-methylmorpholine,THF,PyBOP,"2,6-diisopropylaniline",CN1CCOCC1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CC(C)c1cccc(C(C)C)c1N,6.695124930527994,n8
+711,Diisopropylethylamine,THF,PyBOP,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CC(C)c1cccc(C(C)C)c1N,33.94391447328553,n8
+712,1-Methylimidazole,MeCN,PyBOP,"2,6-diisopropylaniline",Cn1ccnc1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CC(C)c1cccc(C(C)C)c1N,25.616649659567713,n8
+713,"2,6-Lutidine",MeCN,PyBOP,"2,6-diisopropylaniline",Cc1cccc(C)n1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CC(C)c1cccc(C(C)C)c1N,7.917327843515808,n8
+714,N-methylmorpholine,MeCN,PyBOP,"2,6-diisopropylaniline",CN1CCOCC1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CC(C)c1cccc(C(C)C)c1N,36.35186756069499,n8
+715,Diisopropylethylamine,MeCN,PyBOP,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CC(C)c1cccc(C(C)C)c1N,10.860300214653837,n8
+716,1-Methylimidazole,DMF,PyBOP,"2,6-diisopropylaniline",Cn1ccnc1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CC(C)c1cccc(C(C)C)c1N,38.85911041625654,n8
+717,"2,6-Lutidine",DMF,PyBOP,"2,6-diisopropylaniline",Cc1cccc(C)n1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CC(C)c1cccc(C(C)C)c1N,30.727719064634833,n8
+718,N-methylmorpholine,DMF,PyBOP,"2,6-diisopropylaniline",CN1CCOCC1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CC(C)c1cccc(C(C)C)c1N,26.56910608312819,n8
+719,Diisopropylethylamine,DMF,PyBOP,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,CC(C)c1cccc(C(C)C)c1N,27.948773895648966,n8
+720,1-Methylimidazole,THF,BOP-Cl,"2,6-diisopropylaniline",Cn1ccnc1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CC(C)c1cccc(C(C)C)c1N,27.422598229865546,n8
+721,"2,6-Lutidine",THF,BOP-Cl,"2,6-diisopropylaniline",Cc1cccc(C)n1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CC(C)c1cccc(C(C)C)c1N,15.383977509268064,n8
+722,N-methylmorpholine,THF,BOP-Cl,"2,6-diisopropylaniline",CN1CCOCC1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CC(C)c1cccc(C(C)C)c1N,19.670552128951684,n8
+723,Diisopropylethylamine,THF,BOP-Cl,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CC(C)c1cccc(C(C)C)c1N,29.14393100528348,n8
+724,1-Methylimidazole,MeCN,BOP-Cl,"2,6-diisopropylaniline",Cn1ccnc1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CC(C)c1cccc(C(C)C)c1N,33.78213837210231,n8
+725,"2,6-Lutidine",MeCN,BOP-Cl,"2,6-diisopropylaniline",Cc1cccc(C)n1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CC(C)c1cccc(C(C)C)c1N,0.5519628586349254,n8
+726,N-methylmorpholine,MeCN,BOP-Cl,"2,6-diisopropylaniline",CN1CCOCC1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CC(C)c1cccc(C(C)C)c1N,29.095081075282128,n8
+727,Diisopropylethylamine,MeCN,BOP-Cl,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CC(C)c1cccc(C(C)C)c1N,28.917048226746548,n8
+728,1-Methylimidazole,DMF,BOP-Cl,"2,6-diisopropylaniline",Cn1ccnc1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CC(C)c1cccc(C(C)C)c1N,26.227852312629672,n8
+729,"2,6-Lutidine",DMF,BOP-Cl,"2,6-diisopropylaniline",Cc1cccc(C)n1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CC(C)c1cccc(C(C)C)c1N,37.16799242424243,n8
+730,N-methylmorpholine,DMF,BOP-Cl,"2,6-diisopropylaniline",CN1CCOCC1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CC(C)c1cccc(C(C)C)c1N,8.739218446663143,n8
+731,Diisopropylethylamine,DMF,BOP-Cl,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,CC(C)c1cccc(C(C)C)c1N,7.465631834671323,n8
+732,1-Methylimidazole,THF,TFFH,"2,6-diisopropylaniline",Cn1ccnc1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,25.482280376227877,n8
+733,"2,6-Lutidine",THF,TFFH,"2,6-diisopropylaniline",Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,13.613113582277865,n8
+734,N-methylmorpholine,THF,TFFH,"2,6-diisopropylaniline",CN1CCOCC1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,-8.244766615376472,n8
+735,Diisopropylethylamine,THF,TFFH,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,30.41591797941908,n8
+736,1-Methylimidazole,MeCN,TFFH,"2,6-diisopropylaniline",Cn1ccnc1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,36.71116304857597,n8
+737,"2,6-Lutidine",MeCN,TFFH,"2,6-diisopropylaniline",Cc1cccc(C)n1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,22.486802106615688,n8
+738,N-methylmorpholine,MeCN,TFFH,"2,6-diisopropylaniline",CN1CCOCC1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,13.948261044307596,n8
+739,Diisopropylethylamine,MeCN,TFFH,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,25.021711092646612,n8
+740,1-Methylimidazole,DMF,TFFH,"2,6-diisopropylaniline",Cn1ccnc1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,5.134333965898673,n8
+741,"2,6-Lutidine",DMF,TFFH,"2,6-diisopropylaniline",Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,7.6959820533181125,n8
+742,N-methylmorpholine,DMF,TFFH,"2,6-diisopropylaniline",CN1CCOCC1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,22.12706460295522,n8
+743,Diisopropylethylamine,DMF,TFFH,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,38.817062381795196,n8
+744,1-Methylimidazole,THF,DPPCl,"2,6-diisopropylaniline",Cn1ccnc1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,CC(C)c1cccc(C(C)C)c1N,51.986319339758666,n8
+745,"2,6-Lutidine",THF,DPPCl,"2,6-diisopropylaniline",Cc1cccc(C)n1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,CC(C)c1cccc(C(C)C)c1N,52.553072581363196,n8
+746,N-methylmorpholine,THF,DPPCl,"2,6-diisopropylaniline",CN1CCOCC1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,CC(C)c1cccc(C(C)C)c1N,30.892429048159197,n8
+747,Diisopropylethylamine,THF,DPPCl,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,CC(C)c1cccc(C(C)C)c1N,19.33042565483908,n8
+748,1-Methylimidazole,MeCN,DPPCl,"2,6-diisopropylaniline",Cn1ccnc1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,CC(C)c1cccc(C(C)C)c1N,23.582068659233446,n8
+749,"2,6-Lutidine",MeCN,DPPCl,"2,6-diisopropylaniline",Cc1cccc(C)n1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,CC(C)c1cccc(C(C)C)c1N,23.95850722973445,n8
+750,N-methylmorpholine,MeCN,DPPCl,"2,6-diisopropylaniline",CN1CCOCC1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,CC(C)c1cccc(C(C)C)c1N,22.45370227069958,n8
+751,Diisopropylethylamine,MeCN,DPPCl,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,CC(C)c1cccc(C(C)C)c1N,20.104993189686237,n8
+752,1-Methylimidazole,DMF,DPPCl,"2,6-diisopropylaniline",Cn1ccnc1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,CC(C)c1cccc(C(C)C)c1N,5.187143270467871,n8
+753,"2,6-Lutidine",DMF,DPPCl,"2,6-diisopropylaniline",Cc1cccc(C)n1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,CC(C)c1cccc(C(C)C)c1N,44.193195697233726,n8
+754,N-methylmorpholine,DMF,DPPCl,"2,6-diisopropylaniline",CN1CCOCC1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,CC(C)c1cccc(C(C)C)c1N,22.700732154927955,n8
+755,Diisopropylethylamine,DMF,DPPCl,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,CC(C)c1cccc(C(C)C)c1N,9.89051148392537,n8
+756,1-Methylimidazole,THF,HOTU,"2,6-diisopropylaniline",Cn1ccnc1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,24.42715151719623,n8
+757,"2,6-Lutidine",THF,HOTU,"2,6-diisopropylaniline",Cc1cccc(C)n1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,37.05421398642408,n8
+758,N-methylmorpholine,THF,HOTU,"2,6-diisopropylaniline",CN1CCOCC1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,14.518903393281697,n8
+759,Diisopropylethylamine,THF,HOTU,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,5.12601046839897,n8
+760,1-Methylimidazole,MeCN,HOTU,"2,6-diisopropylaniline",Cn1ccnc1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,12.388247804213057,n8
+761,"2,6-Lutidine",MeCN,HOTU,"2,6-diisopropylaniline",Cc1cccc(C)n1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,22.951623073539107,n8
+762,N-methylmorpholine,MeCN,HOTU,"2,6-diisopropylaniline",CN1CCOCC1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,45.73021530267772,n8
+763,Diisopropylethylamine,MeCN,HOTU,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,13.016600678161144,n8
+764,1-Methylimidazole,DMF,HOTU,"2,6-diisopropylaniline",Cn1ccnc1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,-4.686152455270272,n8
+765,"2,6-Lutidine",DMF,HOTU,"2,6-diisopropylaniline",Cc1cccc(C)n1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,45.85625684850911,n8
+766,N-methylmorpholine,DMF,HOTU,"2,6-diisopropylaniline",CN1CCOCC1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,-3.602296952105484,n8
+767,Diisopropylethylamine,DMF,HOTU,"2,6-diisopropylaniline",CCN(C(C)C)C(C)C,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,CC(C)c1cccc(C(C)C)c1N,30.29126053848762,n8
+768,1-Methylimidazole,THF,PFTU,6-chloropyridazin-3-amine,Cn1ccnc1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,9.968082273709173,n9
+769,"2,6-Lutidine",THF,PFTU,6-chloropyridazin-3-amine,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,-15.346512458560202,n9
+770,N-methylmorpholine,THF,PFTU,6-chloropyridazin-3-amine,CN1CCOCC1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,4.0673353145534055,n9
+771,Diisopropylethylamine,THF,PFTU,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,-12.765201609551639,n9
+772,1-Methylimidazole,MeCN,PFTU,6-chloropyridazin-3-amine,Cn1ccnc1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,-7.023118304143349,n9
+773,"2,6-Lutidine",MeCN,PFTU,6-chloropyridazin-3-amine,Cc1cccc(C)n1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,4.978894043050745,n9
+774,N-methylmorpholine,MeCN,PFTU,6-chloropyridazin-3-amine,CN1CCOCC1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,2.6462552773326973,n9
+775,Diisopropylethylamine,MeCN,PFTU,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,7.309551109955656,n9
+776,1-Methylimidazole,DMF,PFTU,6-chloropyridazin-3-amine,Cn1ccnc1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,12.325565854824504,n9
+777,"2,6-Lutidine",DMF,PFTU,6-chloropyridazin-3-amine,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,4.497487212076914,n9
+778,N-methylmorpholine,DMF,PFTU,6-chloropyridazin-3-amine,CN1CCOCC1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,6.66793137692062,n9
+779,Diisopropylethylamine,DMF,PFTU,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,15.23565930130719,n9
+780,1-Methylimidazole,THF,TCFH,6-chloropyridazin-3-amine,Cn1ccnc1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,62.571687168258805,n9
+781,"2,6-Lutidine",THF,TCFH,6-chloropyridazin-3-amine,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,73.71334889638142,n9
+782,N-methylmorpholine,THF,TCFH,6-chloropyridazin-3-amine,CN1CCOCC1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,32.12454836869429,n9
+783,Diisopropylethylamine,THF,TCFH,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,15.255958776543407,n9
+784,1-Methylimidazole,MeCN,TCFH,6-chloropyridazin-3-amine,Cn1ccnc1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,64.58467227103142,n9
+785,"2,6-Lutidine",MeCN,TCFH,6-chloropyridazin-3-amine,Cc1cccc(C)n1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,29.239754161728808,n9
+786,N-methylmorpholine,MeCN,TCFH,6-chloropyridazin-3-amine,CN1CCOCC1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,99.59745150176809,n9
+787,Diisopropylethylamine,MeCN,TCFH,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,14.300684882151335,n9
+788,1-Methylimidazole,DMF,TCFH,6-chloropyridazin-3-amine,Cn1ccnc1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,96.45942569749285,n9
+789,"2,6-Lutidine",DMF,TCFH,6-chloropyridazin-3-amine,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,23.702024352928717,n9
+790,N-methylmorpholine,DMF,TCFH,6-chloropyridazin-3-amine,CN1CCOCC1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,5.727556146362054,n9
+791,Diisopropylethylamine,DMF,TCFH,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,-14.706995257626104,n9
+792,1-Methylimidazole,THF,HATU,6-chloropyridazin-3-amine,Cn1ccnc1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,29.92414906149762,n9
+793,"2,6-Lutidine",THF,HATU,6-chloropyridazin-3-amine,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,27.3959930967197,n9
+794,N-methylmorpholine,THF,HATU,6-chloropyridazin-3-amine,CN1CCOCC1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,70.68413165322393,n9
+795,Diisopropylethylamine,THF,HATU,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,46.04115321070168,n9
+796,1-Methylimidazole,MeCN,HATU,6-chloropyridazin-3-amine,Cn1ccnc1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,20.242816608866175,n9
+797,"2,6-Lutidine",MeCN,HATU,6-chloropyridazin-3-amine,Cc1cccc(C)n1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,40.13885054707016,n9
+798,N-methylmorpholine,MeCN,HATU,6-chloropyridazin-3-amine,CN1CCOCC1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,25.637356125238835,n9
+799,Diisopropylethylamine,MeCN,HATU,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,48.2186826413389,n9
+800,1-Methylimidazole,DMF,HATU,6-chloropyridazin-3-amine,Cn1ccnc1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,48.98575650501079,n9
+801,"2,6-Lutidine",DMF,HATU,6-chloropyridazin-3-amine,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,19.72278864460845,n9
+802,N-methylmorpholine,DMF,HATU,6-chloropyridazin-3-amine,CN1CCOCC1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,38.23035849220985,n9
+803,Diisopropylethylamine,DMF,HATU,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,26.97227342029752,n9
+804,1-Methylimidazole,THF,PyBOP,6-chloropyridazin-3-amine,Cn1ccnc1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N=c1ccc(Cl)n[nH]1,59.83165769124133,n9
+805,"2,6-Lutidine",THF,PyBOP,6-chloropyridazin-3-amine,Cc1cccc(C)n1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N=c1ccc(Cl)n[nH]1,14.007978341143591,n9
+806,N-methylmorpholine,THF,PyBOP,6-chloropyridazin-3-amine,CN1CCOCC1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N=c1ccc(Cl)n[nH]1,35.306415797030226,n9
+807,Diisopropylethylamine,THF,PyBOP,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N=c1ccc(Cl)n[nH]1,23.503314504653662,n9
+808,1-Methylimidazole,MeCN,PyBOP,6-chloropyridazin-3-amine,Cn1ccnc1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N=c1ccc(Cl)n[nH]1,15.771312543106008,n9
+809,"2,6-Lutidine",MeCN,PyBOP,6-chloropyridazin-3-amine,Cc1cccc(C)n1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N=c1ccc(Cl)n[nH]1,10.133948080521625,n9
+810,N-methylmorpholine,MeCN,PyBOP,6-chloropyridazin-3-amine,CN1CCOCC1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N=c1ccc(Cl)n[nH]1,5.648456329923642,n9
+811,Diisopropylethylamine,MeCN,PyBOP,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N=c1ccc(Cl)n[nH]1,34.37000409382609,n9
+812,1-Methylimidazole,DMF,PyBOP,6-chloropyridazin-3-amine,Cn1ccnc1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N=c1ccc(Cl)n[nH]1,7.764731871057673,n9
+813,"2,6-Lutidine",DMF,PyBOP,6-chloropyridazin-3-amine,Cc1cccc(C)n1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N=c1ccc(Cl)n[nH]1,26.702269374071644,n9
+814,N-methylmorpholine,DMF,PyBOP,6-chloropyridazin-3-amine,CN1CCOCC1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N=c1ccc(Cl)n[nH]1,7.153296251594632,n9
+815,Diisopropylethylamine,DMF,PyBOP,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,N=c1ccc(Cl)n[nH]1,14.589548209890857,n9
+816,1-Methylimidazole,THF,BOP-Cl,6-chloropyridazin-3-amine,Cn1ccnc1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N=c1ccc(Cl)n[nH]1,34.06652420848293,n9
+817,"2,6-Lutidine",THF,BOP-Cl,6-chloropyridazin-3-amine,Cc1cccc(C)n1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N=c1ccc(Cl)n[nH]1,12.212621641662967,n9
+818,N-methylmorpholine,THF,BOP-Cl,6-chloropyridazin-3-amine,CN1CCOCC1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N=c1ccc(Cl)n[nH]1,14.69609607874088,n9
+819,Diisopropylethylamine,THF,BOP-Cl,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N=c1ccc(Cl)n[nH]1,33.76566388633923,n9
+820,1-Methylimidazole,MeCN,BOP-Cl,6-chloropyridazin-3-amine,Cn1ccnc1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N=c1ccc(Cl)n[nH]1,35.30646706456827,n9
+821,"2,6-Lutidine",MeCN,BOP-Cl,6-chloropyridazin-3-amine,Cc1cccc(C)n1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N=c1ccc(Cl)n[nH]1,8.483909213874268,n9
+822,N-methylmorpholine,MeCN,BOP-Cl,6-chloropyridazin-3-amine,CN1CCOCC1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N=c1ccc(Cl)n[nH]1,38.15607206079411,n9
+823,Diisopropylethylamine,MeCN,BOP-Cl,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N=c1ccc(Cl)n[nH]1,24.597941184689308,n9
+824,1-Methylimidazole,DMF,BOP-Cl,6-chloropyridazin-3-amine,Cn1ccnc1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N=c1ccc(Cl)n[nH]1,42.020495147062164,n9
+825,"2,6-Lutidine",DMF,BOP-Cl,6-chloropyridazin-3-amine,Cc1cccc(C)n1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N=c1ccc(Cl)n[nH]1,66.30452028905913,n9
+826,N-methylmorpholine,DMF,BOP-Cl,6-chloropyridazin-3-amine,CN1CCOCC1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N=c1ccc(Cl)n[nH]1,34.823761117060194,n9
+827,Diisopropylethylamine,DMF,BOP-Cl,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,N=c1ccc(Cl)n[nH]1,6.660229217274866,n9
+828,1-Methylimidazole,THF,TFFH,6-chloropyridazin-3-amine,Cn1ccnc1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,36.55504969632712,n9
+829,"2,6-Lutidine",THF,TFFH,6-chloropyridazin-3-amine,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,16.771754750020023,n9
+830,N-methylmorpholine,THF,TFFH,6-chloropyridazin-3-amine,CN1CCOCC1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,15.886400702583057,n9
+831,Diisopropylethylamine,THF,TFFH,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,27.85504275630917,n9
+832,1-Methylimidazole,MeCN,TFFH,6-chloropyridazin-3-amine,Cn1ccnc1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,53.96395039110845,n9
+833,"2,6-Lutidine",MeCN,TFFH,6-chloropyridazin-3-amine,Cc1cccc(C)n1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,24.44713844543064,n9
+834,N-methylmorpholine,MeCN,TFFH,6-chloropyridazin-3-amine,CN1CCOCC1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,28.99103974255209,n9
+835,Diisopropylethylamine,MeCN,TFFH,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,28.810875083932547,n9
+836,1-Methylimidazole,DMF,TFFH,6-chloropyridazin-3-amine,Cn1ccnc1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,49.945965498331496,n9
+837,"2,6-Lutidine",DMF,TFFH,6-chloropyridazin-3-amine,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,31.773180429062425,n9
+838,N-methylmorpholine,DMF,TFFH,6-chloropyridazin-3-amine,CN1CCOCC1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,36.14743312712399,n9
+839,Diisopropylethylamine,DMF,TFFH,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,43.922493403029016,n9
+840,1-Methylimidazole,THF,DPPCl,6-chloropyridazin-3-amine,Cn1ccnc1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,N=c1ccc(Cl)n[nH]1,36.34811097795095,n9
+841,"2,6-Lutidine",THF,DPPCl,6-chloropyridazin-3-amine,Cc1cccc(C)n1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,N=c1ccc(Cl)n[nH]1,25.249491253368415,n9
+842,N-methylmorpholine,THF,DPPCl,6-chloropyridazin-3-amine,CN1CCOCC1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,N=c1ccc(Cl)n[nH]1,50.48327715259897,n9
+843,Diisopropylethylamine,THF,DPPCl,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,N=c1ccc(Cl)n[nH]1,13.70475401392327,n9
+844,1-Methylimidazole,MeCN,DPPCl,6-chloropyridazin-3-amine,Cn1ccnc1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,N=c1ccc(Cl)n[nH]1,32.86820084901565,n9
+845,"2,6-Lutidine",MeCN,DPPCl,6-chloropyridazin-3-amine,Cc1cccc(C)n1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,N=c1ccc(Cl)n[nH]1,30.45366457502025,n9
+846,N-methylmorpholine,MeCN,DPPCl,6-chloropyridazin-3-amine,CN1CCOCC1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,N=c1ccc(Cl)n[nH]1,4.941931180611817,n9
+847,Diisopropylethylamine,MeCN,DPPCl,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,N=c1ccc(Cl)n[nH]1,82.06264844566113,n9
+848,1-Methylimidazole,DMF,DPPCl,6-chloropyridazin-3-amine,Cn1ccnc1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,N=c1ccc(Cl)n[nH]1,38.47825225470564,n9
+849,"2,6-Lutidine",DMF,DPPCl,6-chloropyridazin-3-amine,Cc1cccc(C)n1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,N=c1ccc(Cl)n[nH]1,8.900059238186646,n9
+850,N-methylmorpholine,DMF,DPPCl,6-chloropyridazin-3-amine,CN1CCOCC1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,N=c1ccc(Cl)n[nH]1,81.13111970305758,n9
+851,Diisopropylethylamine,DMF,DPPCl,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,N=c1ccc(Cl)n[nH]1,96.33601102069203,n9
+852,1-Methylimidazole,THF,HOTU,6-chloropyridazin-3-amine,Cn1ccnc1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,20.20575551425499,n9
+853,"2,6-Lutidine",THF,HOTU,6-chloropyridazin-3-amine,Cc1cccc(C)n1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,15.961076329720134,n9
+854,N-methylmorpholine,THF,HOTU,6-chloropyridazin-3-amine,CN1CCOCC1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,36.32416151092178,n9
+855,Diisopropylethylamine,THF,HOTU,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,24.252754759834637,n9
+856,1-Methylimidazole,MeCN,HOTU,6-chloropyridazin-3-amine,Cn1ccnc1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,47.63979432030655,n9
+857,"2,6-Lutidine",MeCN,HOTU,6-chloropyridazin-3-amine,Cc1cccc(C)n1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,20.94357913069121,n9
+858,N-methylmorpholine,MeCN,HOTU,6-chloropyridazin-3-amine,CN1CCOCC1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,16.322828692812404,n9
+859,Diisopropylethylamine,MeCN,HOTU,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,4.122886409009208,n9
+860,1-Methylimidazole,DMF,HOTU,6-chloropyridazin-3-amine,Cn1ccnc1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,18.3831857691366,n9
+861,"2,6-Lutidine",DMF,HOTU,6-chloropyridazin-3-amine,Cc1cccc(C)n1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,35.22479878918014,n9
+862,N-methylmorpholine,DMF,HOTU,6-chloropyridazin-3-amine,CN1CCOCC1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,15.727691362384174,n9
+863,Diisopropylethylamine,DMF,HOTU,6-chloropyridazin-3-amine,CCN(C(C)C)C(C)C,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,N=c1ccc(Cl)n[nH]1,28.559811848043836,n9
+864,1-Methylimidazole,THF,PFTU,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,29.742480379557403,n10
+865,"2,6-Lutidine",THF,PFTU,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,16.628996392507773,n10
+866,N-methylmorpholine,THF,PFTU,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,14.603725991723326,n10
+867,Diisopropylethylamine,THF,PFTU,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,-0.2917250109539644,n10
+868,1-Methylimidazole,MeCN,PFTU,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,16.065957806136023,n10
+869,"2,6-Lutidine",MeCN,PFTU,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,10.101189254963195,n10
+870,N-methylmorpholine,MeCN,PFTU,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,-0.5715252270900937,n10
+871,Diisopropylethylamine,MeCN,PFTU,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,18.032739676781325,n10
+872,1-Methylimidazole,DMF,PFTU,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,12.364928192121198,n10
+873,"2,6-Lutidine",DMF,PFTU,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,22.870024692555283,n10
+874,N-methylmorpholine,DMF,PFTU,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,19.27007157141381,n10
+875,Diisopropylethylamine,DMF,PFTU,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[O+]c1c(F)c(F)c(F)c(F)c1F)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,30.754911887660587,n10
+876,1-Methylimidazole,THF,TCFH,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,18.5681072301442,n10
+877,"2,6-Lutidine",THF,TCFH,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,9.271436829694823,n10
+878,N-methylmorpholine,THF,TCFH,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,11.22698472049673,n10
+879,Diisopropylethylamine,THF,TCFH,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,39.05163655534841,n10
+880,1-Methylimidazole,MeCN,TCFH,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,-4.982260219107754,n10
+881,"2,6-Lutidine",MeCN,TCFH,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,18.420213317850262,n10
+882,N-methylmorpholine,MeCN,TCFH,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,-0.14380055079057552,n10
+883,Diisopropylethylamine,MeCN,TCFH,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,-5.288537077211144,n10
+884,1-Methylimidazole,DMF,TCFH,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,6.877401020269108,n10
+885,"2,6-Lutidine",DMF,TCFH,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,37.28753173739762,n10
+886,N-methylmorpholine,DMF,TCFH,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,15.694390699350397,n10
+887,Diisopropylethylamine,DMF,TCFH,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[Cl+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,1.157769227695752,n10
+888,1-Methylimidazole,THF,HATU,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,20.166360592346177,n10
+889,"2,6-Lutidine",THF,HATU,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,-4.029159685487525,n10
+890,N-methylmorpholine,THF,HATU,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,-1.6049560621725174,n10
+891,Diisopropylethylamine,THF,HATU,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,31.955719865246078,n10
+892,1-Methylimidazole,MeCN,HATU,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,16.196479063327047,n10
+893,"2,6-Lutidine",MeCN,HATU,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,13.810536010235095,n10
+894,N-methylmorpholine,MeCN,HATU,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,-2.2720738942183165,n10
+895,Diisopropylethylamine,MeCN,HATU,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,30.83246732118922,n10
+896,1-Methylimidazole,DMF,HATU,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,40.117548832375626,n10
+897,"2,6-Lutidine",DMF,HATU,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,2.5277121047566284,n10
+898,N-methylmorpholine,DMF,HATU,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,39.81486247182143,n10
+899,Diisopropylethylamine,DMF,HATU,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[O+]n1nnc2cccnc21)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,-0.2462500675630066,n10
+900,1-Methylimidazole,THF,PyBOP,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,COC(=O)c1ccc(Cl)cc1N,14.109950605318325,n10
+901,"2,6-Lutidine",THF,PyBOP,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,COC(=O)c1ccc(Cl)cc1N,3.3015256337950207,n10
+902,N-methylmorpholine,THF,PyBOP,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,COC(=O)c1ccc(Cl)cc1N,-1.9412937044451177,n10
+903,Diisopropylethylamine,THF,PyBOP,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,C1CCOC1,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,COC(=O)c1ccc(Cl)cc1N,0.3936487151784531,n10
+904,1-Methylimidazole,MeCN,PyBOP,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,COC(=O)c1ccc(Cl)cc1N,10.567512643772037,n10
+905,"2,6-Lutidine",MeCN,PyBOP,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,COC(=O)c1ccc(Cl)cc1N,8.066953314049238,n10
+906,N-methylmorpholine,MeCN,PyBOP,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,COC(=O)c1ccc(Cl)cc1N,8.963784878726972,n10
+907,Diisopropylethylamine,MeCN,PyBOP,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,CC#N,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,COC(=O)c1ccc(Cl)cc1N,31.244876896482737,n10
+908,1-Methylimidazole,DMF,PyBOP,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,COC(=O)c1ccc(Cl)cc1N,24.272613617104483,n10
+909,"2,6-Lutidine",DMF,PyBOP,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,COC(=O)c1ccc(Cl)cc1N,-10.949209864112063,n10
+910,N-methylmorpholine,DMF,PyBOP,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,COC(=O)c1ccc(Cl)cc1N,17.451251960862407,n10
+911,Diisopropylethylamine,DMF,PyBOP,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,CN(C)C=O,F[P-](F)(F)(F)(F)F.c1ccc2c(c1)nnn2O[P+](N1CCCC1)(N1CCCC1)N1CCCC1,COC(=O)c1ccc(Cl)cc1N,17.758193823470307,n10
+912,1-Methylimidazole,THF,BOP-Cl,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,COC(=O)c1ccc(Cl)cc1N,22.645575073161233,n10
+913,"2,6-Lutidine",THF,BOP-Cl,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,COC(=O)c1ccc(Cl)cc1N,10.016360891353,n10
+914,N-methylmorpholine,THF,BOP-Cl,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,COC(=O)c1ccc(Cl)cc1N,-6.7148549095965375,n10
+915,Diisopropylethylamine,THF,BOP-Cl,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,C1CCOC1,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,COC(=O)c1ccc(Cl)cc1N,2.4172346025505487,n10
+916,1-Methylimidazole,MeCN,BOP-Cl,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,COC(=O)c1ccc(Cl)cc1N,4.122372014180162,n10
+917,"2,6-Lutidine",MeCN,BOP-Cl,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,COC(=O)c1ccc(Cl)cc1N,0.4890111547855993,n10
+918,N-methylmorpholine,MeCN,BOP-Cl,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,COC(=O)c1ccc(Cl)cc1N,-11.140048723975884,n10
+919,Diisopropylethylamine,MeCN,BOP-Cl,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,CC#N,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,COC(=O)c1ccc(Cl)cc1N,7.1519519902903586,n10
+920,1-Methylimidazole,DMF,BOP-Cl,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,COC(=O)c1ccc(Cl)cc1N,3.244158328874442,n10
+921,"2,6-Lutidine",DMF,BOP-Cl,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,COC(=O)c1ccc(Cl)cc1N,12.626645153161313,n10
+922,N-methylmorpholine,DMF,BOP-Cl,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,COC(=O)c1ccc(Cl)cc1N,31.800611952542287,n10
+923,Diisopropylethylamine,DMF,BOP-Cl,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,CN(C)C=O,O=C1OCCN1P(=O)(Cl)N1CCOC1=O,COC(=O)c1ccc(Cl)cc1N,14.496949301802708,n10
+924,1-Methylimidazole,THF,TFFH,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,-9.695778937707292,n10
+925,"2,6-Lutidine",THF,TFFH,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,-1.4470137212801557,n10
+926,N-methylmorpholine,THF,TFFH,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,33.55502795163708,n10
+927,Diisopropylethylamine,THF,TFFH,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,C1CCOC1,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,18.916438735281616,n10
+928,1-Methylimidazole,MeCN,TFFH,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,4.88407511838819,n10
+929,"2,6-Lutidine",MeCN,TFFH,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,1.574716880908566,n10
+930,N-methylmorpholine,MeCN,TFFH,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,-10.62220130271749,n10
+931,Diisopropylethylamine,MeCN,TFFH,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,CC#N,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,5.644308532437979,n10
+932,1-Methylimidazole,DMF,TFFH,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,4.991786391432557,n10
+933,"2,6-Lutidine",DMF,TFFH,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,34.5260905276316,n10
+934,N-methylmorpholine,DMF,TFFH,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,2.7814322711726476,n10
+935,Diisopropylethylamine,DMF,TFFH,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,CN(C)C=O,CN(C)C(=[F+])N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,11.89977910814536,n10
+936,1-Methylimidazole,THF,DPPCl,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,COC(=O)c1ccc(Cl)cc1N,23.559759500061958,n10
+937,"2,6-Lutidine",THF,DPPCl,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,COC(=O)c1ccc(Cl)cc1N,11.636299692256234,n10
+938,N-methylmorpholine,THF,DPPCl,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,COC(=O)c1ccc(Cl)cc1N,-5.305094041213779,n10
+939,Diisopropylethylamine,THF,DPPCl,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,C1CCOC1,O=P(Cl)(c1ccccc1)c1ccccc1,COC(=O)c1ccc(Cl)cc1N,3.0996621679546,n10
+940,1-Methylimidazole,MeCN,DPPCl,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,COC(=O)c1ccc(Cl)cc1N,-5.17937378577416,n10
+941,"2,6-Lutidine",MeCN,DPPCl,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,COC(=O)c1ccc(Cl)cc1N,6.692797541129325,n10
+942,N-methylmorpholine,MeCN,DPPCl,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,COC(=O)c1ccc(Cl)cc1N,6.084324427040812,n10
+943,Diisopropylethylamine,MeCN,DPPCl,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,CC#N,O=P(Cl)(c1ccccc1)c1ccccc1,COC(=O)c1ccc(Cl)cc1N,8.544920153663012,n10
+944,1-Methylimidazole,DMF,DPPCl,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,COC(=O)c1ccc(Cl)cc1N,28.889245032510352,n10
+945,"2,6-Lutidine",DMF,DPPCl,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,COC(=O)c1ccc(Cl)cc1N,8.473142129368775,n10
+946,N-methylmorpholine,DMF,DPPCl,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,COC(=O)c1ccc(Cl)cc1N,8.326994649709853,n10
+947,Diisopropylethylamine,DMF,DPPCl,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,CN(C)C=O,O=P(Cl)(c1ccccc1)c1ccccc1,COC(=O)c1ccc(Cl)cc1N,18.466604549596067,n10
+948,1-Methylimidazole,THF,HOTU,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,-5.407340104618635,n10
+949,"2,6-Lutidine",THF,HOTU,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,6.156998083346169,n10
+950,N-methylmorpholine,THF,HOTU,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,31.447925209877496,n10
+951,Diisopropylethylamine,THF,HOTU,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,C1CCOC1,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,3.880437980675808,n10
+952,1-Methylimidazole,MeCN,HOTU,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,-5.849193075802679,n10
+953,"2,6-Lutidine",MeCN,HOTU,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,9.917719492813658,n10
+954,N-methylmorpholine,MeCN,HOTU,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,-6.116274086890273,n10
+955,Diisopropylethylamine,MeCN,HOTU,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,CC#N,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,40.48413410201004,n10
+956,1-Methylimidazole,DMF,HOTU,methyl 2-amino-4-chlorobenzoate,Cn1ccnc1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,-14.25418432633619,n10
+957,"2,6-Lutidine",DMF,HOTU,methyl 2-amino-4-chlorobenzoate,Cc1cccc(C)n1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,2.5365823974029866,n10
+958,N-methylmorpholine,DMF,HOTU,methyl 2-amino-4-chlorobenzoate,CN1CCOCC1,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,14.046681190174445,n10
+959,Diisopropylethylamine,DMF,HOTU,methyl 2-amino-4-chlorobenzoate,CCN(C(C)C)C(C)C,CN(C)C=O,CCOC(=O)C(C#N)=N[O+]=C(N(C)C)N(C)C.F[P-](F)(F)(F)(F)F,COC(=O)c1ccc(Cl)cc1N,21.288313045197185,n10
